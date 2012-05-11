@@ -1,0 +1,32 @@
+body{
+    font-size: 16px;
+    font-family: Helvetica, Arial, sans-serif;
+    color: #999;
+    margin:50px 0px; 
+    padding:0px;
+    text-align:center;
+}
+
+a:link{
+    color: #69b4a7;
+}
+
+	
+	
+.intro{
+    width: 946px;
+	margin: 0 auto;
+	padding: 15px;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: black;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    font-family: sans-serif;
+    font-size: 11px;
+}
