@@ -30,3 +30,9 @@ a:link{
     font-family: sans-serif;
     font-size: 11px;
 }
+
+.instruction {
+    position: absolute;
+    top: 600px;
+    left: 750px;
+}
