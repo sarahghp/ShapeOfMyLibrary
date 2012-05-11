@@ -66,13 +66,13 @@ function runProgram(){
 //Code for force layout & SVG
     var width = 1280,
     height = 800;
-    nodes = [];
 
     var dataset = makeBook();
 
     function createNodes(dataset){
+        var nodes =[];
         var newNode;
-        for each (var book in dataset){
+        for (var book in dataset){
             newNode = {
                 id: dataset.index,
                 genre: this.genre,
@@ -81,9 +81,10 @@ function runProgram(){
             };
             nodes.push(newNode);
         } 
+        return nodes;
     }
 
-    createNodes();
+    var nodes = createNodes(dataset);
 
 
     var force = d3.layout.force()
