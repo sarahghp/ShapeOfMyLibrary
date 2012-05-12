@@ -108,14 +108,6 @@ function runProgram(){
     });
 
     svg.on("click", function(){
-    var point1 = d3.svg.mouse(this);
-    var node = {
-        x: 625,
-        y: 450,
-    	};
-    nodes.push(node);
-    console.log(nodes)
-
     var nodeCircle = svg.selectAll("circle.node")
     		.data(nodes)
     			.enter()
@@ -126,8 +118,10 @@ function runProgram(){
     		.attr("r", 4)
     		.attr("fill", "#f00b36");
     	force.start();
+        svg.on("click", null);
 
     })
+
 
     force.start();
 
