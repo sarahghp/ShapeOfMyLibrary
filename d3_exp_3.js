@@ -1,5 +1,14 @@
 function runProgram(){
 
+    /* this.test = function(){
+        loadData();
+        var madeBooks = makeBook();
+        for (var property in madeBooks[0]){
+            console.log(property);
+        }
+    } */
+
+
 // Code for creating collection
     var didLoadFile = false;
     var dataArray = [];
@@ -25,16 +34,19 @@ function runProgram(){
 
     loadData();
 
-    function Book(color, height, pages, genre, feeling, author){
+    function Book(color, height, pages, unsplitGenre, feeling, author){
         this.color = color;
         this.height = height;
         this.pages = pages;
-        this.genre = genre;
         this.feeling = feeling;
         this.author = author;
 
-        /*this.subgenre = "";
-        this.splitGenres = function(entry) */
+    
+       
+        var splitArray = unsplitGenre.split("/");
+
+        this.genre = splitArray[0];
+        this.subgenre = splitArray[1];
     } 
 
     function makeBook(){
@@ -53,13 +65,14 @@ function runProgram(){
 
     }
 
-        /* function onLoad() {
-        loadData();
-        var madeBooks = makeBook();
-        for (var property in madeBooks[0]){
-            console.log(property);
-        }
-        } */
+         //Test makeBook();
+
+        
+         //   var madeBooks = makeBook();
+         //   for (var property in madeBooks[0]){
+         //       console.log(madeBooks[0][property]);
+         //   }
+        
 
 
 
@@ -76,8 +89,10 @@ function runProgram(){
             newNode = {
                 id: dataset.index,
                 genre: this.genre,
-                x: 625,
-                y: 450,
+                x: Math.random() * 3400,
+                y: Math.random() * 3000,
+                cx: this.x,
+                cy: this.y,
             };
             nodes.push(newNode);
         } 
@@ -88,11 +103,13 @@ function runProgram(){
 
 
     var force = d3.layout.force()
-    .nodes(nodes)
-    .gravity(.1)
-    .charge(-32)
-    .links([])
-    .size([width, height]);
+        .nodes(nodes)
+        .gravity(.09)
+        .charge(-12)
+        .friction(.97)
+        .alpha(.05)
+        .links([])
+        .size([width, height]);
 
     var svg = d3.select("body")
             .append("svg")
@@ -115,7 +132,7 @@ function runProgram(){
     		.attr("class", "node")
     		.attr("cx", function(d) { return d.x; })
     		.attr("cy", function(d) { return d.y; })
-    		.attr("r", 4)
+    		.attr("r", 6)
     		.attr("fill", "#f00b36");
     	force.start();
         svg.on("click", null);
