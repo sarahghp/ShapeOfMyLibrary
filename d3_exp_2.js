@@ -28,6 +28,9 @@ function Book(color, height, pages, genre, feeling, author){
 	this.genre = genre;
 	this.feeling = feeling;
 	this.author = author;
+
+	this.subgenre = "";
+	this.splitGenres = function(entry)
 }
 
 function makeBook(){
@@ -39,6 +42,11 @@ function makeBook(){
 		madeBooks.push(newBook);
 	}
 	return madeBooks;
+}
+
+function Collection(madeBooks){
+	this.collection = madeBooks;
+
 }
 
 function onLoad() {

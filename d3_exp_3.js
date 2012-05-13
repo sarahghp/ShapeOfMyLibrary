@@ -77,8 +77,8 @@ function runProgram(){
 
 
 //Code for force layout & SVG
-    var width = 1280,
-    height = 800;
+    this.width = 1280,
+    this.height = 800;
 
     var dataset = makeBook();
 
@@ -116,8 +116,52 @@ function runProgram(){
             .attr("width", width)
             .attr("height", height);
 
+    this.center = {
+        x: this.width/2,
+        y: this.height/2
+    }
 
-//Persists nodes
+    var moveTowardsCenter = function(alpha, d){
+        d.x = d.x + (this.center.x - d.x) * (this.damper + 0.02) * alpha;
+        d.y = d.y + (this.center.y - d.y) * (this.damper + 0.02) * alpha;
+
+    };
+
+    this.genreCenters = {
+        "comic": {x: this.width/11 , y: this.height/3 },
+        "picture": {x: 2 * this.width/11 , y: this.height/3 },
+        "design": {x: 3 * this.width, y: this.height/3 },
+        "fiction": {x: 4 * this.width, y: this.height/3 },
+        "mystery": {x: 5 * this.width , y: this.height/3 },
+        "nonfiction": {x: 6 * this.width, y: this.height/3 },
+        "literary theory": {x: 7 * this.width , y: this.height/3 },
+        "books about books": {x: 8 * this.width, y: this.height/3 },
+        "sports": {x: 9 * this.width, y: this.height/3 },
+        "misc": {x: 10 * this.width, y: this.height/3 }
+    }
+
+    var moveTowardsGenre = function(alpha, d){
+        var target = this.genreCenters[d.genre]
+        d.x = d.x + (target.x - d.x) * (this.damper + 0.02) * alpha * 1.1;
+        d.y = d.y + (target.y - d.y) * (this.damper + 0.02) * alpha * 1.1;
+    } 
+
+
+//Displays by genre
+
+
+var displayByGenre = function(){
+    force.on ("tick", function(e){
+        svg.selectAll("circle")
+            .each(this.moveTowardsGenre(e.alpha))
+            .attr("cx", function(d) { return d.x; })
+            .attr("cy", function(d) { return d.y; })
+        force.start();
+    })
+};
+
+
+//Displays all
     force.on("tick", function() {
     svg.selectAll("circle")
     	.attr("cx", function(d) { return d.x; })
@@ -127,8 +171,8 @@ function runProgram(){
     svg.on("click", function(){
     var nodeCircle = svg.selectAll("circle.node")
     		.data(nodes)
-    			.enter()
-    			.append("circle")
+    		.enter()
+    		.append("circle")
     		.attr("class", "node")
     		.attr("cx", function(d) { return d.x; })
     		.attr("cy", function(d) { return d.y; })
