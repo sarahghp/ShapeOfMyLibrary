@@ -1,5 +1,5 @@
 body{
-    font-size: 16px;
+    font-size: 18px;
     font-family: Helvetica, Arial, sans-serif;
     color: #999;
     margin:50px 0px; 
@@ -32,9 +32,16 @@ a:link{
 }
 
 .instruction {
-    position: absolute;
-    top: 500px;
-    left: 750px;
+    margin: 0 auto;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: bold;
+    color: #11b4c3;
+}
+
+.genres {
+    margin: 60px 0 0 0;
 }
 
 .genres li {
