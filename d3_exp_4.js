@@ -3,7 +3,7 @@
 function IntroVis() {
     //Main object properties
         this.width = 1280,
-        this.height = 800;
+        this.height = 600;
         var dataset = [];
         var nodes = [];
         var layout;
@@ -209,7 +209,41 @@ function IntroVis() {
                     .attr("cx", function(d) { return d.x; })
                     .attr("cy", function(d) { return d.y; })
                     .attr("r", 4)
-                    .attr("fill", "#f00b36");
+                    .attr("fill", function(d){
+                        switch(d.genre){
+                            case "comic":
+                                return "#11b4c3";
+
+                            case "picture":
+                                return "#fa660f";
+
+                            case "design":
+                                return "#0b7e2d";
+
+                            case "fiction":
+                                return "#f86984";
+
+                            case "mystery":
+                                return "#1ee638";
+
+                            case "nonfiction":
+                                return "#d00";
+
+                            case "literary theory":
+                                return "#8c23d5";
+
+                            case "books about books":
+                                return "#7a7594";
+
+                            case "sports":
+                                return "#261bd8";
+
+                            default:
+                                return "#fbac1c";   
+                        }
+                    }
+
+                        );
                 layout.start();
                 svg.on("click", function(){that.displayByGenre();
                     svg.on("click", null)});
