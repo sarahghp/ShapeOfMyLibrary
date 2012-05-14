@@ -8,6 +8,8 @@ function IntroVis() {
         var nodes = [];
         var layout;
         var svg;
+        var didLoadFile = false;
+        var dataArray = [];
 
         this.center = {
             x: this.width/2,
@@ -17,14 +19,14 @@ function IntroVis() {
         this.genreCenters = {
             "comic": {x: this.width/11 , y: this.height/3 },
             "picture": {x: 2 * this.width/11 , y: this.height/3 },
-            "design": {x: 3 * this.width, y: this.height/3 },
-            "fiction": {x: 4 * this.width, y: this.height/3 },
-            "mystery": {x: 5 * this.width , y: this.height/3 },
-            "nonfiction": {x: 6 * this.width, y: this.height/3 },
-            "literary theory": {x: 7 * this.width , y: this.height/3 },
-            "books about books": {x: 8 * this.width, y: this.height/3 },
-            "sports": {x: 9 * this.width, y: this.height/3 },
-            "misc": {x: 10 * this.width, y: this.height/3 }
+            "design": {x: 3 * this.width/11, y: this.height/3 },
+            "fiction": {x: 4 * this.width/11, y: this.height/3 },
+            "mystery": {x: 5 * this.width/11, y: this.height/3 },
+            "nonfiction": {x: 6 * this.width/11, y: this.height/3 },
+            "literary theory": {x: 7 * this.width/11, y: this.height/3 },
+            "books about books": {x: 8 * this.width/11, y: this.height/3 },
+            "sports": {x: 9 * this.width/11, y: this.height/3 },
+            "misc": {x: 10 * this.width/11, y: this.height/3 }
         };
 
 
@@ -33,11 +35,12 @@ function IntroVis() {
     //Main run method
         this.run = function() {
             this.loadData();
-            dataset = this.makeBook();
+            dataset = this.makeBook(dataArray);
             nodes = this.createNodes(dataset);
             layout = this.createLayout();
             svg = this.createSVG();
             this.createCircles();
+            this.displayByGenre();
             layout.start();
         };
 
@@ -45,8 +48,6 @@ function IntroVis() {
 
 
     // Load data
-        var didLoadFile = false;
-        var dataArray = [];
 
         this.loadData = function(){
             try {
@@ -68,6 +69,7 @@ function IntroVis() {
 
     // Book constructor
         function Book(color, height, pages, unsplitGenre, feeling, author){
+            // console.log(color);
             this.color = color;
             this.height = height;
             this.pages = pages;
@@ -75,13 +77,46 @@ function IntroVis() {
             this.author = author;
 
             var splitArray = unsplitGenre.split("/");
+            var cleanGenre = function(dirtyGenre){
+                switch (dirtyGenre){
+                    case "Comic":
+                        return "comic";
 
-            this.genre = splitArray[0];
+                    case "Picture":
+                        return "picture";
+
+                    case "Design":
+                        return "design";
+
+                    case "Fiction":
+                        return "fiction";
+
+                    case "Mystery":
+                        return "mystery";
+
+                    case "Nonfiction":
+                        return "nonfiction";
+
+                    case "Literary theory":
+                        return "literary theory";
+
+                    case "Books about books":
+                        return "books about books";
+
+                    case "Sports":
+                        return "sports";
+
+                    default:
+                        return "misc";
+                }
+            }
+
+            this.genre = cleanGenre(splitArray[0]);
             this.subgenre = splitArray[1];
         } 
 
     // Create array of books
-        this.makeBook = function(){
+        this.makeBook = function(dataArray){
             var madeBooks = [];
             // Start at 1 to avoid header row
             for (var i = 1 ; i < dataArray.length; i++){
@@ -94,9 +129,10 @@ function IntroVis() {
 
     // Test this.makeBook()
         this.testBook = function(){
-            var madeBooks = makeBook();
+            var testData = [[], ["Green 1", "7.12", "224", "Outdoor/instruction", "Can do"]];
+            var madeBooks = this.makeBook(testData);
             for (var property in madeBooks[0]){
-            console.log(madeBooks[0][property]);
+                console.log(madeBooks[0][property]);
             }
         };
 
@@ -104,14 +140,12 @@ function IntroVis() {
         this.createNodes = function(dataset){
             var nodes =[];
             var newNode;
-            for (var book in dataset){
+            for (var i = 0; i < dataset.length; i++){
                 newNode = {
-                    id: dataset.index,
-                    genre: this.genre,
+                    id: i,
+                    genre: dataset[i].genre,
                     x: Math.random() * 3400,
                     y: Math.random() * 3000,
-                    cx: this.x,
-                    cy: this.y,
                 };
                 nodes.push(newNode);
             } 
@@ -120,22 +154,28 @@ function IntroVis() {
 
 
     // Move functions
-        this.moveTowardsCenter = function(alpha, d){
+       /* this.moveTowardsCenter = function(alpha, d){
             d.x = d.x + (this.center.x - d.x) * (this.damper + 0.02) * alpha;
             d.y = d.y + (this.center.y - d.y) * (this.damper + 0.02) * alpha;
+        }; */
+
+        this.moveTowardsGenre = function(alpha){
+            var genreCenters = this.genreCenters;
+            var damper = 1.1;
+            return function(d){
+                var target = genreCenters[d.genre];
+                d.x = d.x + (target.x - d.x) * (damper + 0.02) * alpha * 1.1;
+                d.y = d.y + (target.y - d.y) * (damper + 0.02) * alpha * 1.1;
+            };
         };
 
-        this.moveTowardsGenre = function(alpha, d){
-            var target = this.genreCenters[d.genre]
-            d.x = d.x + (target.x - d.x) * (this.damper + 0.02) * alpha * 1.1;
-            d.y = d.y + (target.y - d.y) * (this.damper + 0.02) * alpha * 1.1;
-        };
+        
         
     // Create force layout
         this.createLayout = function() {
             return d3.layout.force()
             .nodes(nodes)
-            .gravity(.09)
+            .gravity(.1)
             .charge(-12)
             .friction(.97)
             .alpha(.05)
@@ -168,7 +208,7 @@ function IntroVis() {
                     .attr("class", "node")
                     .attr("cx", function(d) { return d.x; })
                     .attr("cy", function(d) { return d.y; })
-                    .attr("r", 6)
+                    .attr("r", 4)
                     .attr("fill", "#f00b36");
                 layout.start();
                 svg.on("click", null);
@@ -179,13 +219,16 @@ function IntroVis() {
 
     // Display by genre
         this.displayByGenre = function(){
-            return layout.on ("tick", function(e){
+            var that = this;
+            layout.on ("tick", function(e){
                 svg.selectAll("circle")
-                    .each(this.moveTowardsGenre(e.alpha))
+                    .each(that.moveTowardsGenre(e.alpha))
                     .attr("cx", function(d) { return d.x; })
-                    .attr("cy", function(d) { return d.y; })
-                layout.start();
+                    .attr("cy", function(d) { return d.y; });
+                
             })
+            layout.charge(-92)
+                .gravity(.01);
         };
 
 }
