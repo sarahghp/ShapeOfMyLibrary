@@ -40,7 +40,7 @@ function IntroVis() {
             layout = this.createLayout();
             svg = this.createSVG();
             this.createCircles();
-            this.displayByGenre();
+            //this.displayByGenre();
             layout.start();
         };
 
@@ -199,7 +199,7 @@ function IntroVis() {
                 .attr("cy", function(d) { return d.y; });
             });
         
-
+            var that = this;
             svg.on("click", function(){
                 var nodeCircle = svg.selectAll("circle.node")
                     .data(nodes)
@@ -211,9 +211,10 @@ function IntroVis() {
                     .attr("r", 4)
                     .attr("fill", "#f00b36");
                 layout.start();
-                svg.on("click", null);
-
+                svg.on("click", function(){that.displayByGenre();
+                    svg.on("click", null)});
             })
+            
         };
 
 
@@ -229,6 +230,8 @@ function IntroVis() {
             })
             layout.charge(-92)
                 .gravity(.01);
+            layout.start();
+
         };
 
 }
