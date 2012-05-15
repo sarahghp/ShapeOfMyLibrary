@@ -46,7 +46,6 @@ function IntroVis() {
             nodes = this.createNodes(dataset);
             layout = this.createLayout();
             svg = this.createSVG();
-            this.createCircles();
             //this.logGenreCenters();
             //this.displayByGenre();
             layout.start();
@@ -181,59 +180,7 @@ function IntroVis() {
         this.handleClick = function(){
             if (clickState === 0){
                 clickState = 1;
-                layout.charge(-12)
-                    .gravity(.1);
-                document.getElementById("genres").style.visibility="hidden";
-
-
-                layout.on("tick", function() {
-                    svg.selectAll("circle")
-                    .attr("cx", function(d) { return d.x; })
-                    .attr("cy", function(d) { return d.y; });
-                });
-                var nodeCircle = svg.selectAll("circle.node")
-                    .data(nodes)
-                    .enter()
-                    .append("circle")
-                    .attr("class", "node")
-                    .attr("cx", function(d) { return d.x; })
-                    .attr("cy", function(d) { return d.y; })
-                    .attr("r", 4)
-                    .attr("fill", function(d){
-                        switch(d.genre){
-                            case "comic":
-                                return "#11b4c3";
-
-                            case "picture":
-                                return "#fa660f";
-
-                            case "design":
-                                return "#0b7e2d";
-
-                            case "fiction":
-                                return "#f86984";
-
-                            case "mystery":
-                                return "#1ee638";
-
-                            case "nonfiction":
-                                return "#d00";
-
-                            case "literary theory":
-                                return "#8c23d5";
-
-                            case "books about books":
-                                return "#7a7594";
-
-                            case "sports":
-                                return "#261bd8";
-
-                            default:
-                                return "#fbac1c";   
-                        }
-                    });
-
-                layout.start();
+                that.displayMessy();
             }
             
 
@@ -267,9 +214,62 @@ function IntroVis() {
         };
 
     // Create circles
-        this.createCircles = function () {
-        
-            svg.on("click", this.handleClick); 
+        this.displayMessy = function () {
+            layout.charge(-12)
+                .gravity(.1);
+            document.getElementById("genres").style.visibility="hidden";
+            document.getElementById("instruction").innerHTML="<button>Sort books</button>";
+
+
+
+            layout.on("tick", function() {
+                svg.selectAll("circle")
+                .attr("cx", function(d) { return d.x; })
+                .attr("cy", function(d) { return d.y; });
+            });
+            var nodeCircle = svg.selectAll("circle.node")
+                .data(nodes)
+                .enter()
+                .append("circle")
+                .attr("class", "node")
+                .attr("cx", function(d) { return d.x; })
+                .attr("cy", function(d) { return d.y; })
+                .attr("r", 4)
+                .attr("fill", function(d){
+                    switch(d.genre){
+                        case "comic":
+                            return "#11b4c3";
+
+                        case "picture":
+                            return "#fa660f";
+
+                        case "design":
+                            return "#0b7e2d";
+
+                        case "fiction":
+                            return "#f86984";
+
+                        case "mystery":
+                            return "#1ee638";
+
+                        case "nonfiction":
+                            return "#d00";
+
+                        case "literary theory":
+                            return "#8c23d5";
+
+                        case "books about books":
+                            return "#7a7594";
+
+                        case "sports":
+                            return "#261bd8";
+
+                        default:
+                            return "#fbac1c";   
+                    }
+                });
+
+            layout.start();
             
         };
 
@@ -288,13 +288,20 @@ function IntroVis() {
                 .gravity(.01);
             layout.start();
             document.getElementById("genres").style.visibility="visible";
+            document.getElementById("instruction").innerHTML="<button>Mix them up again!</button>";
 
         };
 
 }
 
 //Create new vis object on load, call run method
+
+var introVis;
 function onLoad() {
-    var introVis = new IntroVis();
+    introVis = new IntroVis();
     introVis.run();
+}
+
+function instructionButtonClicked(){
+    introVis.handleClick();
 }
