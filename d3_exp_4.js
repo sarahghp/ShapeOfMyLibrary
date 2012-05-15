@@ -10,6 +10,7 @@ function IntroVis() {
         var svg;
         var didLoadFile = false;
         var dataArray = [];
+        var clickState = 0;
 
         this.center = {
             x: this.width/2,
@@ -176,38 +177,20 @@ function IntroVis() {
             };
         };
 
-        
-        
-    // Create force layout
-        this.createLayout = function() {
-            return d3.layout.force()
-            .nodes(nodes)
-            .gravity(.1)
-            .charge(-12)
-            .friction(.97)
-            .alpha(.05)
-            .links([])
-            .size([this.width, this.height]);
-        };
+        var that = this;
+        this.handleClick = function(){
+            if (clickState === 0){
+                clickState = 1;
+                layout.charge(-12)
+                    .gravity(.1);
+                document.getElementById("genres").style.visibility="hidden";
 
-    // Create SVG
-        this.createSVG = function(){
-            return d3.select("body")
-                .append("svg")
-                .attr("width", this.width)
-                .attr("height", this.height);
-        };
 
-    // Create circles
-        this.createCircles = function () {
-            layout.on("tick", function() {
-                svg.selectAll("circle")
-                .attr("cx", function(d) { return d.x; })
-                .attr("cy", function(d) { return d.y; });
-            });
-        
-            var that = this;
-            svg.on("click", function(){
+                layout.on("tick", function() {
+                    svg.selectAll("circle")
+                    .attr("cx", function(d) { return d.x; })
+                    .attr("cy", function(d) { return d.y; });
+                });
                 var nodeCircle = svg.selectAll("circle.node")
                     .data(nodes)
                     .enter()
@@ -248,13 +231,45 @@ function IntroVis() {
                             default:
                                 return "#fbac1c";   
                         }
-                    }
+                    });
 
-                        );
                 layout.start();
-                svg.on("click", function(){that.displayByGenre();
-                    svg.on("click", null)});
-            })
+            }
+            
+
+            else {
+                clickState = 0;
+                that.displayByGenre();
+            }
+
+        }
+
+        
+        
+    // Create force layout
+        this.createLayout = function() {
+            return d3.layout.force()
+            .nodes(nodes)
+            .gravity(.1)
+            .charge(-12)
+            .friction(.97)
+            .alpha(.05)
+            .links([])
+            .size([this.width, this.height]);
+        };
+
+    // Create SVG
+        this.createSVG = function(){
+            return d3.select("body")
+                .append("svg")
+                .attr("width", this.width)
+                .attr("height", this.height);
+        };
+
+    // Create circles
+        this.createCircles = function () {
+        
+            svg.on("click", this.handleClick); 
             
         };
 
