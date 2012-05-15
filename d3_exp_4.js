@@ -272,6 +272,7 @@ function IntroVis() {
             layout.charge(-72)
                 .gravity(.01);
             layout.start();
+            document.getElementById("genres").style.visibility="visible";
 
         };
 

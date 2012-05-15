@@ -1,7 +1,7 @@
 body{
     font-size: 16px;
     font-family: Helvetica, Arial, sans-serif;
-    color: #999;
+    color: #666;
     margin:50px 0px; 
     padding:0px;
     text-align:center;
@@ -41,6 +41,7 @@ a:link{
 }
 
 #genres {
+    visibility: hidden;
     position: absolute;
     top: 600px;
     left:50px;
