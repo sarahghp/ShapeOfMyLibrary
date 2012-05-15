@@ -30,6 +30,12 @@ function IntroVis() {
         };
 
 
+        // this.logGenreCenters = function() {
+           // for each (genre in this.genreCenters){
+           //     console.log (genre);
+           // }
+        //}
+
 
 
     //Main run method
@@ -40,6 +46,7 @@ function IntroVis() {
             layout = this.createLayout();
             svg = this.createSVG();
             this.createCircles();
+            //this.logGenreCenters();
             //this.displayByGenre();
             layout.start();
         };
@@ -262,7 +269,7 @@ function IntroVis() {
                     .attr("cy", function(d) { return d.y; });
                 
             })
-            layout.charge(-92)
+            layout.charge(-72)
                 .gravity(.01);
             layout.start();
 

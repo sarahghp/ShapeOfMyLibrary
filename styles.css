@@ -1,5 +1,5 @@
 body{
-    font-size: 18px;
+    font-size: 16px;
     font-family: Helvetica, Arial, sans-serif;
     color: #999;
     margin:50px 0px; 
@@ -37,17 +37,101 @@ a:link{
     font-size: 14px;
     font-style: italic;
     font-weight: bold;
-    color: #11b4c3;
+    color: #5e5e5e;
 }
 
-.genres {
+#genres {
     position: absolute;
     top: 600px;
     left:50px;
 }
 
-.genres li {
+#genres p {
     display: inline;
-    margin: 0 60px 0 0;
 }
 
+/* Front-page genre IDs */
+
+#comics {
+    margin: 0 0 0 156px;
+}
+
+#pictureBooks {
+    margin: 0 0 0 27px;
+}
+
+#design {
+    margin: 0 0 0 25px;
+}
+
+#fiction {
+    margin: 0 0 0 97px;
+}
+
+#mystery {
+    margin: 0 0 0 107px;
+}
+
+#nonfiction {
+    margin: 0 0 0 97px;
+}
+
+#literaryTheory {
+    margin: 0 0 0 75px;
+}
+
+#booksAboutBooks {
+    margin: 0 0 0 27px;
+}
+
+#sports {
+    margin: 0 0 0 47px;
+}
+
+#misc {
+    margin: 0 0 0 67px;
+}
+
+
+
+/* Color classes */
+
+.lightBlue {
+    color: #11b4c3;
+}
+
+.darkOrange {
+    color: #fa660f;
+}
+
+.darkGreen{
+    color: #0b7e2d;
+}
+
+.pink {
+    color: #f86984;
+}
+
+.lightGreen {
+    color: #1ee638;
+}
+
+.red {
+    color: #d00;
+}
+
+.purple {
+    color: #8c23d5;
+}
+
+.lavGray {
+    color: #7a7594;
+}
+
+.darkBlue {
+    color: #261bd8;
+}
+
+.lightOrange {
+    color: #fbac1c;
+}
