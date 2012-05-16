@@ -13,14 +13,16 @@ a {
 
 
 button {
-    background: #7a7594;
+    background: #5e5e5e;
     margin: 20px 0 0 0;
     padding: 10px 10px 10px;
     color: #fff;
-    font-size: 14px;
-    text-decoration: none;
+    font-family: Georgia, serif;
+    font-size: 16px;
     font-weight: bold;
+    letter-spacing:1px;
     line-height: 1;
+    text-decoration: none;
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
     -moz-box-shadow: 0 1px 3px #ccc;
@@ -30,9 +32,8 @@ button {
 }	
 	
 .intro{
-    width: 946px;
-	margin: 0 auto;
-	padding: 15px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 21px;
 }
 
 .axis path,
@@ -59,7 +60,7 @@ button {
 #genres {
     visibility: hidden;
     position: absolute;
-    top: 600px;
+    top: 650px;
     left:50px;
 }
 
