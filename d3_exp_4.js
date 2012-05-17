@@ -46,8 +46,6 @@ function IntroVis() {
             nodes = this.createNodes(dataset);
             layout = this.createLayout();
             svg = this.createSVG();
-            //this.logGenreCenters();
-            //this.displayByGenre();
             layout.start();
         };
 
@@ -85,32 +83,33 @@ function IntroVis() {
 
             var splitArray = unsplitGenre.split("/");
             var cleanGenre = function(dirtyGenre){
-                switch (dirtyGenre){
-                    case "Comic":
+                var lowerDirty = dirtyGenre.toLowerCase();
+                switch (lowerDirty){
+                    case "comic":
                         return "comic";
 
-                    case "Picture":
+                    case "picture":
                         return "picture";
 
-                    case "Design":
+                    case "design":
                         return "design";
 
-                    case "Fiction":
+                    case "fiction":
                         return "fiction";
 
-                    case "Mystery":
+                    case "mystery":
                         return "mystery";
 
-                    case "Nonfiction":
+                    case "nonfiction":
                         return "nonfiction";
 
-                    case "Literary theory":
+                    case "literary theory":
                         return "literary theory";
 
-                    case "Books about books":
+                    case "Bbooks about books":
                         return "books about books";
 
-                    case "Sports":
+                    case "sports":
                         return "sports";
 
                     default:
@@ -136,7 +135,7 @@ function IntroVis() {
 
     // Test this.makeBook()
         this.testBook = function(){
-            var testData = [[], ["Green 1", "7.12", "224", "Outdoor/instruction", "Can do"]];
+            var testData = [[], ["Green 1", "7.12", "224", "literay theory/instruction", "Can do"]];
             var madeBooks = this.makeBook(testData);
             for (var property in madeBooks[0]){
                 console.log(madeBooks[0][property]);
