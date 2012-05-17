@@ -45,7 +45,7 @@ body{
     visibility: hidden;
     position: absolute;
     top: 650px;
-    left: 190px;
+    left: 50px;
 }
 
 #genres {
@@ -55,7 +55,7 @@ body{
 /* Front-page genre IDs */
 
 #comics {
-    margin: 0 0 0 140;
+    margin: 0 0 0 140px;
 }
 
 #pictureBooks {
