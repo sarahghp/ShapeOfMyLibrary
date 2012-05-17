@@ -106,7 +106,7 @@ function IntroVis() {
                     case "literary theory":
                         return "literary theory";
 
-                    case "Bbooks about books":
+                    case "books about books":
                         return "books about books";
 
                     case "sports":
