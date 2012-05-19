@@ -11,6 +11,8 @@ function IntroVis() {
         var didLoadFile = false;
         var dataArray = [];
         var clickState = 0;
+        var that = this;
+
 
         this.center = {
             x: this.width/2,
@@ -175,7 +177,6 @@ function IntroVis() {
             };
         };
 
-        var that = this;
         this.handleClick = function(){
             if (clickState === 0){
                 clickState = 1;
@@ -269,7 +270,9 @@ function IntroVis() {
                 });
 
             layout.start();
-            
+           
+            nodeCircle.on("mouseover", that.mouseOver);
+            nodeCircle.on("mouseout", that.mouseOut);
         };
 
 
@@ -286,10 +289,39 @@ function IntroVis() {
             layout.charge(-72)
                 .gravity(.01);
             layout.start();
+            
             document.getElementById("genres").style.visibility="visible";
             document.getElementById("instruction").innerHTML="<button>Mix them up again!</button>";
 
         };
+
+    // Labels functions
+
+        this.mouseOver = function() {
+            console.log("Yes, it is me!")
+            var node = d3.select(this);
+            var nodeX = parseInt(node.attr("cx"));
+            var nodeY = parseInt(node.attr("cy"));
+            var labelGroup =  svg.append("g")
+                .attr("class", "label");
+            var text = labelGroup.append("text")
+                .attr("x", nodeX + 12)
+                .attr("y", nodeY)
+                .text("Some text");
+            // Access DOM element via selection[0][0]
+            var boundingBox = text[0][0].getBBox();
+            labelGroup.insert("rect", "text")
+                .attr("x", boundingBox.x - 4)
+                .attr("y", boundingBox.y - 4)
+                .attr("width", boundingBox.width + 8)
+                .attr("height", boundingBox.height + 8)
+                .attr("class", "labelStyle");
+        }
+
+         this.mouseOut= function(node) {
+            svg.selectAll("g.label").remove();
+        }
+
 
 }
 

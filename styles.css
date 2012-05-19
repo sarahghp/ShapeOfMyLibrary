@@ -17,6 +17,11 @@ body{
     font-size: 18px;
 }
 
+.labelStyle {
+    stroke: black;
+    stroke-width: 1;
+    fill: #edeef2;
+}
 
 #instruction {
     margin: 0 auto;
