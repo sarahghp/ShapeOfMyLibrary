@@ -152,6 +152,8 @@ function IntroVis() {
                 newNode = {
                     id: i,
                     genre: dataset[i].genre,
+                    subgenre: dataset[i].subgenre,
+                    feeling: dataset[i].feeling,
                     x: Math.random() * 3400,
                     y: Math.random() * 3000,
                 };
@@ -298,7 +300,6 @@ function IntroVis() {
     // Labels functions
 
         this.mouseOver = function() {
-            console.log("Yes, it is me!")
             var node = d3.select(this);
             var nodeX = parseInt(node.attr("cx"));
             var nodeY = parseInt(node.attr("cy"));
@@ -307,13 +308,14 @@ function IntroVis() {
             var text = labelGroup.append("text")
                 .attr("x", nodeX + 12)
                 .attr("y", nodeY)
-                .text("Some text");
+                .attr("class", "labelText")
+                .text("This " + node.datum().subgenre + " " + node.datum().genre + " book makes me think \"" + node.datum().feeling + "\"");
             // Access DOM element via selection[0][0]
-            var boundingBox = text[0][0].getBBox();
+            var boundingBox = text.node().getBBox();
             labelGroup.insert("rect", "text")
-                .attr("x", boundingBox.x - 4)
+                .attr("x", boundingBox.x - 6)
                 .attr("y", boundingBox.y - 4)
-                .attr("width", boundingBox.width + 8)
+                .attr("width", boundingBox.width + 18)
                 .attr("height", boundingBox.height + 8)
                 .attr("class", "labelStyle");
         }

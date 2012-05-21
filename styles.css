@@ -20,7 +20,15 @@ body{
 .labelStyle {
     stroke: black;
     stroke-width: 1;
-    fill: #edeef2;
+    fill: #555;
+}
+
+
+.labelText {
+    fill: #fff;
+    font-family: Georgia, serif;
+    font-size: 14px;
+    
 }
 
 #instruction {
