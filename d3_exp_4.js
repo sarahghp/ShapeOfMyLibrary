@@ -134,7 +134,7 @@ function IntroVis() {
                 // This incredible long switch starement gave me a good excuse to dig into the data and relive the experience of creation, adding one more layer of memory, like a varnish
                 switch(lowerFeeling){
                     case "a good one":
-                        return " a solid and happy";
+                        return "a solid and happy";
 
                     case "affection":
                         return "an affectionate";
@@ -152,7 +152,7 @@ function IntroVis() {
                         return "a cozy";
 
                     case "cringe-stalgia":
-                        return "cringe-stalgia";    
+                        return "a cringe-stalgic";    
 
                     case "formative":
                         return "wistful";
@@ -209,7 +209,7 @@ function IntroVis() {
                         return "an unrepentant";
 
                     default:
-                        return "an inexplicable";
+                        return "a " + lowerFeeling;
                 } 
             }
 
