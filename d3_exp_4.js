@@ -27,7 +27,7 @@ function IntroVis() {
             "mystery": {x: 5 * this.width/11, y: this.height/3 },
             "nonfiction": {x: 6 * this.width/11, y: this.height/3 },
             "literary theory": {x: 7 * this.width/11, y: this.height/3 },
-            "books about books": {x: 8 * this.width/11, y: this.height/3 },
+            "book on books": {x: 8 * this.width/11, y: this.height/3 },
             "sports": {x: 9 * this.width/11, y: this.height/3 },
             "misc": {x: 10 * this.width/11, y: this.height/3 }
         };
@@ -80,7 +80,6 @@ function IntroVis() {
             this.color = color;
             this.height = height;
             this.pages = pages;
-            this.feeling = feeling;
             this.author = author;
 
             var splitArray = unsplitGenre.split("/");
@@ -109,7 +108,7 @@ function IntroVis() {
                         return "literary theory";
 
                     case "books about books":
-                        return "books about books";
+                        return "book on books";
 
                     case "sports":
                         return "sports";
@@ -119,8 +118,104 @@ function IntroVis() {
                 }
             }
 
+            var cleanSub = function(dirtySub){
+                if (dirtySub === undefined){
+                    return "";
+                }
+
+                else {
+                    return dirtySub.toLowerCase();
+                }
+            }
+
+            var formatFeeling = function(feeling){
+                var lowerFeeling = feeling.toLowerCase();
+
+                // This incredible long switch starement gave me a good excuse to dig into the data and relive the experience of creation, adding one more layer of memory, like a varnish
+                switch(lowerFeeling){
+                    case "a good one":
+                        return " a solid and happy";
+
+                    case "affection":
+                        return "an affectionate";
+
+                    case "burden":
+                        return "an oppressed by the Western canon";
+
+                    case "can do":
+                        return "a can do";
+
+                    case "cool":
+                        return "a happy and pleased";
+
+                    case "cozy":
+                        return "a cozy";
+
+                    case "cringe-stalgia":
+                        return "cringe-stalgia";    
+
+                    case "formative":
+                        return "wistful";
+
+                    case "get rid of?":
+                        return "a minimalist";
+
+                    case "guilt":
+                        return "a guilty";
+
+                    case "happiness":
+                        return "a happy"
+
+                    case "hm":
+                        return "an ambivalent";
+
+                    case "i made that":
+                        return "a proud";
+
+                    case "meh":
+                        return "an ambivalent";
+
+                    case "maybe i'd like it now":
+                        return "a mature";
+
+                    case "nostalgic":
+                        return "a nostalgic";
+
+                    case "read again":
+                        return "an excited";
+
+                    case "relevant":
+                        return "a this might have some thing to say to me";
+
+                    case "reminiscence":
+                        return "a wistful";
+
+                    case "should finish":
+                        return "a longing";
+
+                    case "should read":
+                        return "a guilty";
+
+                    case "was cool":
+                        return "an affectionate";
+
+                    case "sexy":
+                        return "a sexy";
+
+                    case "some day ...":
+                        return " a some day";
+
+                    case "unread and not sorry":
+                        return "an unrepentant";
+
+                    default:
+                        return "an inexplicable";
+                } 
+            }
+
             this.genre = cleanGenre(splitArray[0]);
-            this.subgenre = splitArray[1];
+            this.subgenre = cleanSub(splitArray[1]);
+            this.feeling = formatFeeling(feeling);
         } 
 
     // Create array of books
@@ -260,7 +355,7 @@ function IntroVis() {
                         case "literary theory":
                             return "#8c23d5";
 
-                        case "books about books":
+                        case "book on books":
                             return "#7a7594";
 
                         case "sports":
@@ -309,7 +404,7 @@ function IntroVis() {
                 .attr("x", nodeX + 12)
                 .attr("y", nodeY)
                 .attr("class", "labelText")
-                .text("This " + node.datum().subgenre + " " + node.datum().genre + " book makes me think \"" + node.datum().feeling + "\"");
+                .text("This " + node.datum().subgenre + " " + node.datum().genre + " book gives me " + node.datum().feeling + " kinda feeling.");
             // Access DOM element via selection[0][0]
             var boundingBox = text.node().getBBox();
             labelGroup.insert("rect", "text")
