@@ -404,7 +404,7 @@ function IntroVis() {
                 .attr("x", nodeX + 12)
                 .attr("y", nodeY)
                 .attr("class", "labelText")
-                .text("This " + node.datum().subgenre + " " + node.datum().genre + " book gives me " + node.datum().feeling + " kinda feeling.");
+                .text("This " + node.datum().subgenre + " " + node.datum().genre + " book gives me " + node.datum().feeling + " kind of feeling.");
             // Access DOM element via selection[0][0]
             var boundingBox = text.node().getBBox();
             labelGroup.insert("rect", "text")
