@@ -405,14 +405,26 @@ function IntroVis() {
                 .attr("y", nodeY)
                 .attr("class", "labelText")
                 .text("This " + node.datum().subgenre + " " + node.datum().genre + " book gives me " + node.datum().feeling + " kind of feeling.");
-            // Access DOM element via selection[0][0]
+            
             var boundingBox = text.node().getBBox();
+            
+            text.attr("x", function(){
+                if (nodeX > that.width/2){
+                    return (nodeX - 12) - boundingBox.width;
+                }
+
+                else {return nodeX + 12}; 
+            });
+            boundingBox = text.node().getBBox();
+
             labelGroup.insert("rect", "text")
                 .attr("x", boundingBox.x - 6)
                 .attr("y", boundingBox.y - 4)
-                .attr("width", boundingBox.width + 18)
+                .attr("width", boundingBox.width + 12)
                 .attr("height", boundingBox.height + 8)
                 .attr("class", "labelStyle");
+
+
         }
 
          this.mouseOut= function(node) {
