@@ -157,6 +157,9 @@ function IntroVis() {
                     case "formative":
                         return "wistful";
 
+                    case "get rid of":
+                        return "a minimalist";
+
                     case "get rid of?":
                         return "a minimalist";
 
@@ -404,7 +407,18 @@ function IntroVis() {
                 .attr("x", nodeX + 12)
                 .attr("y", nodeY)
                 .attr("class", "labelText")
-                .text("This " + node.datum().subgenre + " " + node.datum().genre + " book gives me " + node.datum().feeling + " kind of feeling.");
+                .text(function(){
+                    if (node.datum().genre === "nonfiction"){
+                        return "This " + node.datum().subgenre + " book gives me " + node.datum().feeling + " kind of feeling.";
+                    }
+
+                    else if (node.datum().genre === "misc") {
+                        return "This grab-bag " + node.datum().subgenre + " book gives me " + node.datum().feeling + " kind of feeling."
+                    }
+                    else { 
+                        return "This " + node.datum().subgenre + " " + node.datum().genre + " book gives me " + node.datum().feeling + " kind of feeling.";
+                    }
+                });
             
             var boundingBox = text.node().getBBox();
             
