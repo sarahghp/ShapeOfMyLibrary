@@ -8,7 +8,8 @@ body{
 	
 
 .title {
-    margin:50px 0 0 0; 
+    margin: 50px 0 0 0;
+    text-align: center; 
 }
 
 .intro{
@@ -57,54 +58,82 @@ body{
 #genres {
     visibility: hidden;
     position: absolute;
+    left: 50%;
     top: 650px;
-    left: 50px;
-}
-
-#genres {
-    display: inline;
+    margin: 0 auto;
+    width: 1280px;
 }
 
 /* Front-page genre IDs */
 
 #comics {
-    margin: 0 0 0 140px;
+    position: relative;
+    left: -50%;
+    float: left;
 }
 
 #pictureBooks {
-    margin: 0 0 0 10px;
+    position: relative;
+    left: -50%;
+    float: left;
+    padding-left: 12px;
+
 }
 
 #design {
-    margin: 0 0 0 1px;
+    position: relative;
+    left: -50%;
+    float: left;
+    padding-left: -1px;
 }
 
 #fiction {
-    margin: 0 0 0 37px;
+    position: relative;
+    left: -50%;
+    float: left;
+    padding-left: 52px;
 }
 
 #mystery {
-    margin: 0 0 0 64px;
+    position: relative;
+    left: -50%;
+    float: left;
+    padding-left: 60px;
 }
 
 #nonfiction {
-    margin: 0 0 0 56px;
+    position: relative;
+    left: -50%;
+    float: left;
+    padding-left: 50px;
 }
 
 #literaryTheory {
-    margin: 0 0 0 33px;
+    position: relative;
+    left: -50%;
+    float: left;
+    padding-left: 60px;
 }
 
 #booksAboutBooks {
-    margin: 0 0 0 4px;
+    position: relative;
+    left: -50%;
+    float: left;
+    padding-left: 0px;
 }
 
 #sports {
-    margin: 0 0 0 0px;
+    position: relative;
+    left: -50%;
+    float: left;
+    padding-left: 0px;
 }
 
 #misc {
-    margin: 0 0 0 7px;
+    position: relative;
+    left: -50%;
+    float: left;
+    padding-left: 10px;
 }
 
 
