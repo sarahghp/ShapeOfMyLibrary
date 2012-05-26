@@ -47,11 +47,17 @@ body{
     top: 850px;
     width: 100%;
     font-size: 12px;
+    font-weight: bold;
+}
+
+#footer .note {
+    font-weight: normal;
+    padding: 10px 0 0 0;
 }
 
 a, a:hover, a:visited {
     color: #222;
-    background: yellow;
+    background: #ff0;
     text-decoration:none;
     
 }
@@ -110,68 +116,60 @@ a, a:hover, a:visited {
     float: left;
 }
 
-#pictureBooks {
+#artDesign {
     position: relative;
     left: -50%;
     float: left;
-    padding-left: 12px;
-
-}
-
-#design {
-    position: relative;
-    left: -50%;
-    float: left;
-    padding-left: -1px;
+    margin-left: 30px;
 }
 
 #fiction {
     position: relative;
     left: -50%;
     float: left;
-    padding-left: 52px;
+    margin-left: 52px;
 }
 
 #mystery {
     position: relative;
     left: -50%;
     float: left;
-    padding-left: 60px;
+    margin-left: 80px;
 }
 
 #nonfiction {
     position: relative;
     left: -50%;
     float: left;
-    padding-left: 50px;
+    margin-left: 70px;
 }
 
 #literaryTheory {
     position: relative;
     left: -50%;
     float: left;
-    padding-left: 60px;
+    margin-left: 50px;
 }
 
 #booksAboutBooks {
     position: relative;
     left: -50%;
     float: left;
-    padding-left: 0px;
+    margin-left: 10px;
 }
 
 #sports {
     position: relative;
     left: -50%;
     float: left;
-    padding-left: 0px;
+    margin-left: 7px;
 }
 
 #misc {
     position: relative;
     left: -50%;
     float: left;
-    padding-left: 10px;
+    margin-left: 40px;
 }
 
 

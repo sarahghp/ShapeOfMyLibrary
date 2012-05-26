@@ -20,16 +20,15 @@ function IntroVis() {
         };
 
         this.genreCenters = {
-            "comic": {x: this.width/11 , y: this.height/3 },
-            "picture": {x: 2 * this.width/11 , y: this.height/3 },
-            "design": {x: 3 * this.width/11, y: this.height/3 },
-            "fiction": {x: 4 * this.width/11, y: this.height/3 },
-            "mystery": {x: 5 * this.width/11, y: this.height/3 },
-            "nonfiction": {x: 6 * this.width/11, y: this.height/3 },
-            "literary theory": {x: 7 * this.width/11, y: this.height/3 },
-            "book on books": {x: 8 * this.width/11, y: this.height/3 },
-            "sports": {x: 9 * this.width/11, y: this.height/3 },
-            "misc": {x: 10 * this.width/11, y: this.height/3 }
+            "comic": {x: this.width/10 , y: this.height/3 },
+            "art and design": {x: 2 * this.width/10, y: this.height/3 },
+            "fiction": {x: 3 * this.width/10, y: this.height/3 },
+            "mystery": {x: 4 * this.width/10, y: this.height/3 },
+            "nonfiction": {x: 5 * this.width/10, y: this.height/3 },
+            "literary theory": {x: 6 * this.width/10, y: this.height/3 },
+            "book on books": {x: 7 * this.width/10, y: this.height/3 },
+            "sports": {x: 8 * this.width/10, y: this.height/3 },
+            "misc": {x: 9 * this.width/10, y: this.height/3 }
         };
 
 
@@ -90,10 +89,10 @@ function IntroVis() {
                         return "comic";
 
                     case "picture":
-                        return "picture";
+                        return "art and design";
 
                     case "design":
-                        return "design";
+                        return "art and design";
 
                     case "fiction":
                         return "fiction";
@@ -340,11 +339,8 @@ function IntroVis() {
                         case "comic":
                             return "#11b4c3";
 
-                        case "picture":
+                        case "art and design":
                             return "#fa660f";
-
-                        case "design":
-                            return "#0b7e2d";
 
                         case "fiction":
                             return "#f86984";
