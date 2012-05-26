@@ -2,7 +2,7 @@
 
 function IntroVis() {
     //Main object properties
-        this.width = 1280,
+        this.width = 1280;
         this.height = 600;
         var dataset = [];
         var nodes = [];

@@ -1,9 +1,10 @@
 body{
     font-size: 16px;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: Georgia, serif;
     color: #666;
     padding:0px;
     text-align:center;
+
 }
 	
 
@@ -12,10 +13,47 @@ body{
     text-align: center; 
 }
 
+.text subtitle {
+    position: relative;
+    margin: 50px 0 0 0px;
+    text-align: left; 
+}
+
+.text{
+    text-align:left;
+    margin: 0 auto;
+    line-height: 1.4em;
+    
+}
+
+.text p{
+    width: 45%;
+    margin: 0 0 10px 100px;
+}
+
+.text hr{
+    width: 45%;
+    margin: 30px 0 50px 100px;
+}
+
 .intro{
     color: #11b4c3;
     font-family: Helvetica, Arial, sans-serif;
     font-size: 18px;
+}
+
+#footer {
+    position: absolute;
+    top: 850px;
+    width: 100%;
+    font-size: 12px;
+}
+
+a, a:hover, a:visited {
+    color: #222;
+    background: yellow;
+    text-decoration:none;
+    
 }
 
 .labelStyle {
