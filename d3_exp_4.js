@@ -404,7 +404,7 @@ function IntroVis() {
                 .attr("y", nodeY)
                 .attr("class", "labelText")
                 .text(function(){
-                    if (node.datum().genre === "nonfiction"){
+                    if (node.datum().genre === "nonfiction" || node.datum().genre === "art and design"){
                         return "This " + node.datum().subgenre + " book gives me " + node.datum().feeling + " kind of feeling.";
                     }
 
