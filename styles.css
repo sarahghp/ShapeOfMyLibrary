@@ -141,12 +141,14 @@ a.active {
 }
 
 #genres a, #genres a:visited {
+    display: inline-block;
     background: none;
-    border: 0;
+    border-top: 4px solid #fff;
 }
 
 #genres a:hover, #genres a:active {
-    background: #ff0;
+    border-top: 4px solid #ff0;
+    display: inline-block;
 }
 
 /* Front-page genre IDs */
@@ -155,6 +157,7 @@ a.active {
     position: relative;
     left: -50%;
     float: left;
+    width: 100px;
 }
 
 #artDesign {
