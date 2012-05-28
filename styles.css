@@ -6,6 +6,12 @@ body{
     text-align:center;
 
 }
+
+a {
+    background: #ff0;
+    color: #222;
+    text-decoration:none;   
+}
 	
 
 .title {
@@ -55,11 +61,37 @@ body{
     padding: 10px 0 0 0;
 }
 
-a, a:hover, a:visited {
+#footer a, #footer a:visited, #nav a, #nav a:visited  {
+    background: none;
+    color: #222;
+    text-decoration:none;       
+}
+
+#footer a:hover, #footer a:active, #nav a:hover, #nav a:active {
     color: #222;
     background: #ff0;
-    text-decoration:none;
-    
+    text-decoration:none;   
+}
+
+a.active {
+    color: #222;
+    background: #ff0;
+    text-decoration:none;      
+}
+
+#nav{
+    margin: 0px 0px -60px 0px;
+}
+
+#nav li {
+    display: inline;
+    margin: 0px 20px 0px 0;
+}
+
+#nav li.active a {
+    color: #222;
+    background: #ff0;
+    text-decoration:none;  
 }
 
 .labelStyle {
