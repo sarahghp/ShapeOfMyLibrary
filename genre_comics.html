@@ -6,11 +6,13 @@
 		<title>Shape of My Library &mdash; Comics</title>
         <link rel="stylesheet" type="text/css" href="styles.css" />
         <script src="http://d3js.org/d3.v2.js"></script>
+        <script type="text/javascript" src="comics_shelf.js"></script>
+        <script src="CSVToArray.js" type="text/javascript"></script>
 
 
 	</head>
 
-	<body>
+	<body onload="onLoad()">
 		<div id="nav">
 			<ul>
 				<li class="active"> <a href="genre_comics.html">Comics</a></li>
@@ -27,6 +29,10 @@
 		</div>
 
 		<img class="title" src="genre_images/comics_title.png" />
+
+		<div class="label">
+			<p>Chart 1: Height of books, in order of appearance</p>
+		</div>
 
 		<div id="footer">
           	<p>

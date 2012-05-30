@@ -4,13 +4,17 @@ body{
     color: #666;
     padding:0px;
     text-align:center;
-
 }
 
 a {
     background: #ff0;
     color: #222;
     text-decoration:none;   
+}
+
+svg {
+    margin: 0 auto;
+    display: block;
 }
 	
 
@@ -46,6 +50,13 @@ a {
     color: #11b4c3;
     font-family: Helvetica, Arial, sans-serif;
     font-size: 18px;
+}
+
+.label{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 12px;
+    
 }
 
 #footer {
