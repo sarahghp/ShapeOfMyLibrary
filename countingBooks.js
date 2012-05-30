@@ -5,7 +5,7 @@ function onLoad(){
     loadData = function(){
                 try {
                     var request = new XMLHttpRequest();
-                    request.open("GET", "BookProject_all.csv", false);
+                    request.open("GET", "BookProject_all_munged.csv", false);
                     request.send();
                     didLoadFile = (request.responseText != "")
                     if (didLoadFile) {
@@ -81,86 +81,56 @@ function onLoad(){
 
                     // This incredible long switch starement gave me a good excuse to dig into the data and relive the experience of creation, adding one more layer of memory, like a varnish
                     switch(lowerFeeling){
-                        case "a good one":
-                            return "a solid and happy";
+                        case "affectionate":
+                        return "an affectionate";
 
-                        case "affection":
-                            return "an affectionate";
+                    case "ambivalent":
+                        return "an ambivalent";
 
-                        case "burden":
-                            return "an oppressed by the Western canon";
+                    case "burden":
+                        return "an oppressed by the Western canon";
 
-                        case "can do":
-                            return "a can do";
+                    case "cozy":
+                        return "a cozy";
 
-                        case "cool":
-                            return "a happy and pleased";
+                    case "cringestalgia":
+                        return "a cringe-stalgic";   
 
-                        case "cozy":
-                            return "a cozy";
+                    case "cringe-stalgia":
+                        return "a cringe-stalgic";    
 
-                        case "cringe-stalgia":
-                            return "a cringe-stalgic";    
+                    case "curious":
+                        return "a curious";
 
-                        case "formative":
-                            return "wistful";
+                    case "empowered":
+                        return "an empowered";
 
-                        case "get rid of":
-                            return "a minimalist";
+                    case "excited":
+                        return "an excited";
 
-                        case "get rid of?":
-                            return "a minimalist";
+                    case "guilty":
+                        return "a guilty";
 
-                        case "guilt":
-                            return "a guilty";
+                    case "introspective":
+                        return "an introspective";
 
-                        case "happiness":
-                            return "a happy"
+                    case "minimalist":
+                        return "a minimalist";
 
-                        case "hm":
-                            return "an ambivalent";
+                    case "nostalgic":
+                        return "a nostalgic";
 
-                        case "i made that":
-                            return "a proud";
+                    case "proud":
+                        return "a proud";
 
-                        case "meh":
-                            return "an ambivalent";
+                    case "wistful":
+                        return "a wistful";
 
-                        case "maybe i'd like it now":
-                            return "a mature";
+                    case "unread and not sorry":
+                        return "an unrepentant";
 
-                        case "nostalgic":
-                            return "a nostalgic";
-
-                        case "read again":
-                            return "an excited";
-
-                        case "relevant":
-                            return "a this might have some thing to say to me";
-
-                        case "reminiscence":
-                            return "a wistful";
-
-                        case "should finish":
-                            return "a longing";
-
-                        case "should read":
-                            return "a guilty";
-
-                        case "was cool":
-                            return "an affectionate";
-
-                        case "sexy":
-                            return "a sexy";
-
-                        case "some day ...":
-                            return " a some day";
-
-                        case "unread and not sorry":
-                            return "an unrepentant";
-
-                        default:
-                            return "a " + lowerFeeling;
+                    default:
+                        return "a " + lowerFeeling;
                     } 
                 }
 
