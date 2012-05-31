@@ -248,6 +248,7 @@ function IntroVis() {
         };
 
         this.handleClick = function(){
+            document.getElementById("nav").style.visibility="visible";
             if (clickState === 0){
                 clickState = 1;
                 that.displayMessy();
@@ -375,7 +376,7 @@ function IntroVis() {
                 .attr("y", nodeY)
                 .attr("class", "labelText")
                 .text(function(){
-                    if (node.datum().genre === "nonfiction" || node.datum().genre === "art and design"){
+                    if (node.datum().genre === "nonfiction" || node.datum().genre === "art and design" || node.datum().genre === "sports"){
                         return "This " + node.datum().subgenre + " book gives me " + node.datum().feeling + " kind of feeling.";
                     }
 

@@ -215,7 +215,7 @@ function BarChart(){
 			   	   .attr("y", function(d) {
 			       		return yScale(d.nodeHeight);  
 			   		})
-				   .attr("width", 5)
+				   .attr("width", 7)
 	   			   .attr("height", function(d) {
     					return that.height - (padding + yScale(d.nodeHeight));
 					})

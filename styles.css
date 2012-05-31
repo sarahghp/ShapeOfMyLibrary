@@ -47,6 +47,14 @@ svg {
     margin: 30px 0 50px 100px;
 }
 
+.graph {
+    position: absolute;
+    text-align: center;
+    top: 550px; 
+    left:230px;
+}
+
+
 .intro{
     color: #11b4c3;
     font-family: Helvetica, Arial, sans-serif;
@@ -62,10 +70,11 @@ svg {
 
 #footer {
     position: absolute;
-    top: 850px;
+    top: 1050px;
     width: 100%;
     font-size: 12px;
     font-weight: bold;
+    clear:both;
 }
 
 #footer .note {
