@@ -4,6 +4,7 @@ body{
     color: #666;
     padding:0px;
     text-align:center;
+    width:100%;
 }
 
 a {
@@ -146,9 +147,18 @@ a.active {
 #genres {
     visibility: hidden;
     position: absolute;
-    left: 50%;
     top: 650px;
+    width: 100%;
+}
+
+#sandwich {
     width: 1280px;
+    margin: 0 auto;
+}
+
+#sandwich div {
+    position: relative;
+    float: left;
 }
 
 #genres a, #genres a:visited {
@@ -165,65 +175,38 @@ a.active {
 /* Front-page genre IDs */
 
 #comics {
-    position: relative;
-    left: -50%;
-    float: left;
-    width: 100px;
+    
 }
 
 #artDesign {
-    position: relative;
-    left: -50%;
-    float: left;
     margin-left: 30px;
 }
 
-#fiction {
-    position: relative;
-    left: -50%;
-    float: left;
+#fiction {   
     margin-left: 52px;
 }
 
 #mystery {
-    position: relative;
-    left: -50%;
-    float: left;
     margin-left: 80px;
 }
 
 #nonfiction {
-    position: relative;
-    left: -50%;
-    float: left;
     margin-left: 70px;
 }
 
 #literaryTheory {
-    position: relative;
-    left: -50%;
-    float: left;
     margin-left: 50px;
 }
 
 #booksAboutBooks {
-    position: relative;
-    left: -50%;
-    float: left;
     margin-left: 10px;
 }
 
 #sports {
-    position: relative;
-    left: -50%;
-    float: left;
     margin-left: 7px;
 }
 
 #misc {
-    position: relative;
-    left: -50%;
-    float: left;
     margin-left: 40px;
 }
 

@@ -1,5 +1,5 @@
 function BarChart(){
-	this.width = 1000;
+	this.width = 800;
 	this.height = 300;
 	
 	var barPadding = 1;
@@ -187,7 +187,7 @@ function BarChart(){
             var nodes =[];
             var newNode;
             for (var i = 0; i < dataset.length; i++){
-            	if (dataset[i].genre === "comic"){
+            	if (dataset[i].genre === "sports"){
 	                newNode = {
 	                    id: i,
 	                    nodeHeight: dataset[i].height,
@@ -219,7 +219,7 @@ function BarChart(){
 	   			   .attr("height", function(d) {
     					return that.height - (padding + yScale(d.nodeHeight));
 					})
-	   			   .attr("fill", "#11b4c3")
+	   			   .attr("fill", "#261bd8")
 		};
 
 	this.createAxis = function() {

@@ -1,5 +1,5 @@
 function BarChart(){
-	this.width = 1000;
+	this.width = 1200;
 	this.height = 300;
 	
 	var barPadding = 1;
@@ -187,7 +187,7 @@ function BarChart(){
             var nodes =[];
             var newNode;
             for (var i = 0; i < dataset.length; i++){
-            	if (dataset[i].genre === "comic"){
+            	if (dataset[i].genre === "mystery"){
 	                newNode = {
 	                    id: i,
 	                    nodeHeight: dataset[i].height,
@@ -215,11 +215,11 @@ function BarChart(){
 			   	   .attr("y", function(d) {
 			       		return yScale(d.nodeHeight);  
 			   		})
-				   .attr("width", 7)
+				   .attr("width", 5)
 	   			   .attr("height", function(d) {
     					return that.height - (padding + yScale(d.nodeHeight));
 					})
-	   			   .attr("fill", "#11b4c3")
+	   			   .attr("fill", "#1ee638")
 		};
 
 	this.createAxis = function() {
