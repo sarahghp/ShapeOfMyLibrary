@@ -49,9 +49,8 @@ svg {
 
 .graph {
     position: absolute;
-    text-align: center;
     top: 550px; 
-    left:230px;
+    width: 100%;
 }
 
 
