@@ -1,0 +1,5483 @@
+[
+  {
+    "color": "Orange 2",
+    "height": "8.75",
+    "pages": "64",
+    "author": "Jay Stephens",
+    "genre": "grab bag",
+    "subgenre": "instruction",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Green 1",
+    "height": "8.75",
+    "pages": "64",
+    "author": "Jay Stephens",
+    "genre": "grab bag",
+    "subgenre": "instruction",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Brown 1",
+    "height": "8.5",
+    "pages": "118",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "instructional",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Brown 3",
+    "height": "10.75",
+    "pages": "136",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "instructional",
+    "feeling": "an excited"
+  },
+  {
+    "color": "White",
+    "height": "8",
+    "pages": "84",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "instructional",
+    "feeling": "a guilty"
+  },
+  {
+    "color": "Green 1",
+    "height": "8",
+    "pages": "520",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Brown 1",
+    "height": "9.5",
+    "pages": "372",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "a cringe-stalgic"
+  },
+  {
+    "color": "Multi",
+    "height": "8",
+    "pages": "302",
+    "author": "Francine Prose",
+    "genre": "book on books",
+    "subgenre": "",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Yellow 2",
+    "height": "9.25",
+    "pages": "292",
+    "author": "",
+    "genre": "book on books",
+    "subgenre": "",
+    "feeling": "a relevant"
+  },
+  {
+    "color": "Yellow 1",
+    "height": "7.25",
+    "pages": "268",
+    "author": "",
+    "genre": "book on books",
+    "subgenre": "",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Blue 1",
+    "height": "8",
+    "pages": "128",
+    "author": "",
+    "genre": "book on books",
+    "subgenre": "",
+    "feeling": "a am"
+  },
+  {
+    "color": "Black",
+    "height": "8.25",
+    "pages": "246",
+    "author": "",
+    "genre": "book on books",
+    "subgenre": "",
+    "feeling": "a guilty"
+  },
+  {
+    "color": "Red 1",
+    "height": "11",
+    "pages": "158",
+    "author": "",
+    "genre": "book on books",
+    "subgenre": "",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Red 1",
+    "height": "8.5",
+    "pages": "222",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "an introspective"
+  },
+  {
+    "color": "Black",
+    "height": "8.75",
+    "pages": "178",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "theory",
+    "feeling": "an excited"
+  },
+  {
+    "color": "White",
+    "height": "10.25",
+    "pages": "192",
+    "author": "",
+    "genre": "comic",
+    "subgenre": "adventure",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Brown 1",
+    "height": "10.25",
+    "pages": "172",
+    "author": "Alan Moore",
+    "genre": "comic",
+    "subgenre": "adventure",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Brown 3",
+    "height": "10.25",
+    "pages": "228",
+    "author": "Alan Moore",
+    "genre": "comic",
+    "subgenre": "adventure",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Green 2",
+    "height": "8.75",
+    "pages": "398",
+    "author": "Rucka",
+    "genre": "comic",
+    "subgenre": "adventure",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Blue 2",
+    "height": "8.75",
+    "pages": "334",
+    "author": "Rucka",
+    "genre": "comic",
+    "subgenre": "adventure",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Brown 3",
+    "height": "8.75",
+    "pages": "366",
+    "author": "Rucka",
+    "genre": "comic",
+    "subgenre": "adventure",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "White",
+    "height": "8.5",
+    "pages": "154",
+    "author": "",
+    "genre": "comic",
+    "subgenre": "alt",
+    "feeling": "a nostalgic"
+  },
+  {
+    "color": "Yellow 2",
+    "height": "8.5",
+    "pages": "136",
+    "author": "",
+    "genre": "comic",
+    "subgenre": "alt",
+    "feeling": "a curious"
+  },
+  {
+    "color": "Green 1",
+    "height": "8.5",
+    "pages": "128",
+    "author": "Grillo-Maxrauch",
+    "genre": "comic",
+    "subgenre": "alt",
+    "feeling": "a nostalgic"
+  },
+  {
+    "color": "Brown 3",
+    "height": "8.5",
+    "pages": "128",
+    "author": "Grillo-Maxrauch",
+    "genre": "comic",
+    "subgenre": "alt",
+    "feeling": "a nostalgic"
+  },
+  {
+    "color": "Gray",
+    "height": "10.25",
+    "pages": "96",
+    "author": "",
+    "genre": "comic",
+    "subgenre": "alt",
+    "feeling": "a guilty"
+  },
+  {
+    "color": "Brown 2",
+    "height": "10.25",
+    "pages": "192",
+    "author": "",
+    "genre": "comic",
+    "subgenre": "alt",
+    "feeling": "a nostalgic"
+  },
+  {
+    "color": "Brown 1",
+    "height": "10",
+    "pages": "190",
+    "author": "",
+    "genre": "comic",
+    "subgenre": "alt",
+    "feeling": "a proud"
+  },
+  {
+    "color": "Blue 1",
+    "height": "10.75",
+    "pages": "134",
+    "author": "",
+    "genre": "comic",
+    "subgenre": "alternative",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Red 2",
+    "height": "11.5",
+    "pages": "62",
+    "author": "",
+    "genre": "comic",
+    "subgenre": "classic",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Black",
+    "height": "8.5",
+    "pages": "106",
+    "author": "Rick Geary",
+    "genre": "comic",
+    "subgenre": "history",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Blue 3",
+    "height": "9.25",
+    "pages": "75",
+    "author": "",
+    "genre": "comic",
+    "subgenre": "history",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Black",
+    "height": "10",
+    "pages": "218",
+    "author": "Jason Lutes",
+    "genre": "comic",
+    "subgenre": "novel",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Brown 3",
+    "height": "10",
+    "pages": "218",
+    "author": "Jason Lutes",
+    "genre": "comic",
+    "subgenre": "novel",
+    "feeling": "a sexy"
+  },
+  {
+    "color": "Green ",
+    "height": "8.25",
+    "pages": "460",
+    "author": "Linda Medley",
+    "genre": "comic",
+    "subgenre": "novel",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Red 2",
+    "height": "8.25",
+    "pages": "380",
+    "author": "Linda Medley",
+    "genre": "comic",
+    "subgenre": "novel",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Copper",
+    "height": "9.25",
+    "pages": "104",
+    "author": "",
+    "genre": "comic",
+    "subgenre": "novel",
+    "feeling": "a proud"
+  },
+  {
+    "color": "Black",
+    "height": "9",
+    "pages": "80",
+    "author": "Rick Geary",
+    "genre": "comic",
+    "subgenre": "true crime",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Black",
+    "height": "9",
+    "pages": "80",
+    "author": "Rick Geary",
+    "genre": "comic",
+    "subgenre": "true crime",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Black",
+    "height": "9",
+    "pages": "80",
+    "author": "Rick Geary",
+    "genre": "comic",
+    "subgenre": "true crime",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Gray",
+    "height": "9",
+    "pages": "64",
+    "author": "Rick Geary",
+    "genre": "comic",
+    "subgenre": "true crime",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Black",
+    "height": "9",
+    "pages": "80",
+    "author": "Rick Geary",
+    "genre": "comic",
+    "subgenre": "true crime",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Black",
+    "height": "9",
+    "pages": "80",
+    "author": "Rick Geary",
+    "genre": "comic",
+    "subgenre": "true crime",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Black",
+    "height": "9",
+    "pages": "80",
+    "author": "Rick Geary",
+    "genre": "comic",
+    "subgenre": "true crime",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Black",
+    "height": "9",
+    "pages": "80",
+    "author": "Rick Geary",
+    "genre": "comic",
+    "subgenre": "true crime",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Black",
+    "height": "9",
+    "pages": "80",
+    "author": "Rick Geary",
+    "genre": "comic",
+    "subgenre": "true crime",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Black",
+    "height": "9",
+    "pages": "80",
+    "author": "Rick Geary",
+    "genre": "comic",
+    "subgenre": "true crime",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Red 1",
+    "height": "8.5",
+    "pages": "176",
+    "author": "Ellen Lupton ?",
+    "genre": "art and design",
+    "subgenre": "instruction",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Red 3",
+    "height": "9",
+    "pages": "224",
+    "author": "",
+    "genre": "art and design",
+    "subgenre": "instruction",
+    "feeling": "a guilty"
+  },
+  {
+    "color": "Purple 1",
+    "height": "9.75",
+    "pages": "332",
+    "author": "",
+    "genre": "art and design",
+    "subgenre": "instructional",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Multi",
+    "height": "8.5",
+    "pages": "320",
+    "author": "",
+    "genre": "art and design",
+    "subgenre": "instructional",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Green 1",
+    "height": "9",
+    "pages": "336",
+    "author": "",
+    "genre": "art and design",
+    "subgenre": "reference",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "White",
+    "height": "11",
+    "pages": "208",
+    "author": "",
+    "genre": "art and design",
+    "subgenre": "reference",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Gray",
+    "height": "8.25",
+    "pages": "286",
+    "author": "",
+    "genre": "art and design",
+    "subgenre": "theory",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Red 3",
+    "height": "8.25",
+    "pages": "264",
+    "author": "",
+    "genre": "art and design",
+    "subgenre": "theory",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "White",
+    "height": "9",
+    "pages": "256",
+    "author": "",
+    "genre": "art and design",
+    "subgenre": "theory",
+    "feeling": "a can do"
+  },
+  {
+    "color": "Black",
+    "height": "9",
+    "pages": "228",
+    "author": "",
+    "genre": "art and design",
+    "subgenre": "theory",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Black",
+    "height": "9",
+    "pages": "384",
+    "author": "",
+    "genre": "art and design",
+    "subgenre": "theory",
+    "feeling": "a guilty"
+  },
+  {
+    "color": "Blue 1",
+    "height": "8.5",
+    "pages": "152",
+    "author": "",
+    "genre": "art and design",
+    "subgenre": "theory",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Gray",
+    "height": "9",
+    "pages": "176",
+    "author": "",
+    "genre": "art and design",
+    "subgenre": "theory",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Green 2",
+    "height": "8",
+    "pages": "282",
+    "author": "",
+    "genre": "art and design",
+    "subgenre": "theory",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Gray",
+    "height": "8",
+    "pages": "248",
+    "author": "",
+    "genre": "art and design",
+    "subgenre": "theory",
+    "feeling": "a guilty"
+  },
+  {
+    "color": "Brown 1",
+    "height": "9",
+    "pages": "248",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Red 2",
+    "height": "7.75",
+    "pages": "214",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "classic",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Black",
+    "height": "9",
+    "pages": "220",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Gray",
+    "height": "8",
+    "pages": "248",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Black",
+    "height": "7.75",
+    "pages": "400",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "18th cent",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "White ",
+    "height": "7.75",
+    "pages": "106",
+    "author": "Flaubert",
+    "genre": "fiction",
+    "subgenre": "18th cent",
+    "feeling": "a guilty"
+  },
+  {
+    "color": "Red 2",
+    "height": "8",
+    "pages": "166",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "19th cent",
+    "feeling": "a minimalist"
+  },
+  {
+    "color": "Blue 3",
+    "height": "8.5",
+    "pages": "588",
+    "author": "Edith Wharton",
+    "genre": "fiction",
+    "subgenre": "19th cent",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Black",
+    "height": "7.75",
+    "pages": "348",
+    "author": "Edith Wharton",
+    "genre": "fiction",
+    "subgenre": "19th cent",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Multi",
+    "height": "6.75",
+    "pages": "138",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "19th cent",
+    "feeling": "a minimalist"
+  },
+  {
+    "color": "Purple 3",
+    "height": "8.25",
+    "pages": "128",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "19th cent",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Brown 2",
+    "height": "7",
+    "pages": "398",
+    "author": "Flaubert",
+    "genre": "fiction",
+    "subgenre": "19th cent classic",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Brown 2",
+    "height": "7",
+    "pages": "380",
+    "author": "Charles Dickens",
+    "genre": "fiction",
+    "subgenre": "19th cent classic",
+    "feeling": "an oppressed by the Western canon"
+  },
+  {
+    "color": "Brown 2",
+    "height": "7",
+    "pages": "780",
+    "author": "Charles Dickens",
+    "genre": "fiction",
+    "subgenre": "19th cent classic",
+    "feeling": "an oppressed by the Western canon"
+  },
+  {
+    "color": "Brown 2",
+    "height": "7",
+    "pages": "788",
+    "author": "Charles Dickens",
+    "genre": "fiction",
+    "subgenre": "19th cent classic",
+    "feeling": "an oppressed by the Western canon"
+  },
+  {
+    "color": "Brown 2",
+    "height": "7",
+    "pages": "848",
+    "author": "Charles Dickens",
+    "genre": "fiction",
+    "subgenre": "19th cent classic",
+    "feeling": "an oppressed by the Western canon"
+  },
+  {
+    "color": "Brown 2",
+    "height": "7",
+    "pages": "382",
+    "author": "Charles Dickens",
+    "genre": "fiction",
+    "subgenre": "19th cent classic",
+    "feeling": "an oppressed by the Western canon"
+  },
+  {
+    "color": "Brown 2",
+    "height": "7",
+    "pages": "364",
+    "author": "Charles Dickens",
+    "genre": "fiction",
+    "subgenre": "19th cent classic",
+    "feeling": "an oppressed by the Western canon"
+  },
+  {
+    "color": "Brown 2",
+    "height": "7",
+    "pages": "830",
+    "author": "Charles Dickens",
+    "genre": "fiction",
+    "subgenre": "19th cent classic",
+    "feeling": "an oppressed by the Western canon"
+  },
+  {
+    "color": "Brown 2",
+    "height": "7",
+    "pages": "762",
+    "author": "Charles Dickens",
+    "genre": "fiction",
+    "subgenre": "19th cent classic",
+    "feeling": "an oppressed by the Western canon"
+  },
+  {
+    "color": "Brown 2",
+    "height": "7",
+    "pages": "860",
+    "author": "Charles Dickens",
+    "genre": "fiction",
+    "subgenre": "19th cent classic",
+    "feeling": "an oppressed by the Western canon"
+  },
+  {
+    "color": "Brown 2",
+    "height": "7",
+    "pages": "882",
+    "author": "Charles Dickens",
+    "genre": "fiction",
+    "subgenre": "19th cent classic",
+    "feeling": "an oppressed by the Western canon"
+  },
+  {
+    "color": "Brown 2",
+    "height": "7",
+    "pages": "485",
+    "author": "Charles Dickens",
+    "genre": "fiction",
+    "subgenre": "19th cent classic",
+    "feeling": "an oppressed by the Western canon"
+  },
+  {
+    "color": "Brown 2",
+    "height": "7",
+    "pages": "838",
+    "author": "Charles Dickens",
+    "genre": "fiction",
+    "subgenre": "19th cent classic",
+    "feeling": "an oppressed by the Western canon"
+  },
+  {
+    "color": "Brown 2",
+    "height": "7",
+    "pages": "856",
+    "author": "Charles Dickens",
+    "genre": "fiction",
+    "subgenre": "19th cent classic",
+    "feeling": "an oppressed by the Western canon"
+  },
+  {
+    "color": "Brown 2",
+    "height": "7",
+    "pages": "486",
+    "author": "Charles Dickens",
+    "genre": "fiction",
+    "subgenre": "19th cent classic",
+    "feeling": "an oppressed by the Western canon"
+  },
+  {
+    "color": "Brown 2",
+    "height": "7",
+    "pages": "522",
+    "author": "Charles Dickens",
+    "genre": "fiction",
+    "subgenre": "19th cent classic",
+    "feeling": "an oppressed by the Western canon"
+  },
+  {
+    "color": "Brown 2",
+    "height": "7",
+    "pages": "486",
+    "author": "Charles Dickens",
+    "genre": "fiction",
+    "subgenre": "19th cent classic",
+    "feeling": "an oppressed by the Western canon"
+  },
+  {
+    "color": "Red 3",
+    "height": "8.25",
+    "pages": "310",
+    "author": "LM Montgomery ",
+    "genre": "fiction",
+    "subgenre": "children's ",
+    "feeling": "an introspective"
+  },
+  {
+    "color": "Blue 1",
+    "height": "7.75",
+    "pages": "230",
+    "author": "Roald Dahl",
+    "genre": "fiction",
+    "subgenre": "children's ",
+    "feeling": "a cringe-stalgic"
+  },
+  {
+    "color": "Blue 1",
+    "height": "8",
+    "pages": "230",
+    "author": "Dahl",
+    "genre": "fiction",
+    "subgenre": "children's ",
+    "feeling": "a curious"
+  },
+  {
+    "color": "Blue 2",
+    "height": "8.25",
+    "pages": "330",
+    "author": "LM Mongomery",
+    "genre": "fiction",
+    "subgenre": "children's ",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "White",
+    "height": "9.5",
+    "pages": "340",
+    "author": "Dahl",
+    "genre": "fiction",
+    "subgenre": "children's ",
+    "feeling": "an introspective"
+  },
+  {
+    "color": "Blue 1",
+    "height": "8.25",
+    "pages": "246",
+    "author": "LM Montgomery ",
+    "genre": "fiction",
+    "subgenre": "children's ",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Brown 1",
+    "height": "8.25",
+    "pages": "248",
+    "author": "LM Montgomery ",
+    "genre": "fiction",
+    "subgenre": "children's ",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "White",
+    "height": "7",
+    "pages": "244",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "children's ",
+    "feeling": "a minimalist"
+  },
+  {
+    "color": "Multi",
+    "height": "9.25",
+    "pages": "312",
+    "author": "JK Rowling",
+    "genre": "fiction",
+    "subgenre": "children's ",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Multi",
+    "height": "9.25",
+    "pages": "342",
+    "author": "JK Rowling",
+    "genre": "fiction",
+    "subgenre": "children's ",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Multi",
+    "height": "9.25",
+    "pages": "436",
+    "author": "JK Rowling",
+    "genre": "fiction",
+    "subgenre": "children's ",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Multi",
+    "height": "9.25",
+    "pages": "736",
+    "author": "JK Rowling",
+    "genre": "fiction",
+    "subgenre": "children's ",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Multi",
+    "height": "9.25",
+    "pages": "878",
+    "author": "JK Rowling",
+    "genre": "fiction",
+    "subgenre": "children's ",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Multi",
+    "height": "9.25",
+    "pages": "660",
+    "author": "JK Rowling",
+    "genre": "fiction",
+    "subgenre": "children's ",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Multi",
+    "height": "9.25",
+    "pages": "770",
+    "author": "JK Rowling",
+    "genre": "fiction",
+    "subgenre": "children's ",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Yellow 2",
+    "height": "7.5",
+    "pages": "160",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "children's ",
+    "feeling": "a nostalgic"
+  },
+  {
+    "color": "Yellow 3",
+    "height": "6.75",
+    "pages": "308",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "children's classic",
+    "feeling": "a minimalist"
+  },
+  {
+    "color": "Green 3",
+    "height": "8.25",
+    "pages": "224",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "childrens",
+    "feeling": "an introspective"
+  },
+  {
+    "color": "Black",
+    "height": "9.5",
+    "pages": "200",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "classic",
+    "feeling": "an unrepentant"
+  },
+  {
+    "color": "Red 2",
+    "height": "9.5",
+    "pages": "940",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "classic",
+    "feeling": "a guilty"
+  },
+  {
+    "color": "Multi",
+    "height": "9.25",
+    "pages": "472",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "classic",
+    "feeling": "a guilty"
+  },
+  {
+    "color": "Blue 2",
+    "height": "8",
+    "pages": "248",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "contempoary",
+    "feeling": "a wistful "
+  },
+  {
+    "color": "Red 2",
+    "height": "8",
+    "pages": "326",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "contemporary",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Blue 1",
+    "height": "8.25",
+    "pages": "394",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "contemporary",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Red 2",
+    "height": "8",
+    "pages": "310",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "contemporary",
+    "feeling": "a proud"
+  },
+  {
+    "color": "Blue 3",
+    "height": "8",
+    "pages": "388",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "contemporary",
+    "feeling": "a curious"
+  },
+  {
+    "color": "Multi",
+    "height": "7.75",
+    "pages": "332",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "contemporary",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Gray",
+    "height": "8.5",
+    "pages": "302",
+    "author": "Hrabal",
+    "genre": "fiction",
+    "subgenre": "contemporary ",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Black",
+    "height": "8",
+    "pages": "88",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "contemporary ",
+    "feeling": "a curious"
+  },
+  {
+    "color": "Black",
+    "height": "9.25",
+    "pages": "296",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "contemporary ",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Red 2",
+    "height": "9.25",
+    "pages": "278",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "contemporary ",
+    "feeling": "a guilty"
+  },
+  {
+    "color": "Purple 3",
+    "height": "9.5",
+    "pages": "232",
+    "author": "Joyce Johnson",
+    "genre": "fiction",
+    "subgenre": "contemporary ",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Red 3",
+    "height": "9.25",
+    "pages": "550",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "contemporary ",
+    "feeling": "a guilty"
+  },
+  {
+    "color": "Gold",
+    "height": "8.25",
+    "pages": "632",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "contemporary ",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Green 2",
+    "height": "8",
+    "pages": "180",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "contemporary ",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Gray",
+    "height": "...",
+    "pages": "232",
+    "author": "Dale Peck",
+    "genre": "fiction",
+    "subgenre": "contemporary ",
+    "feeling": "a minimalist"
+  },
+  {
+    "color": "Black",
+    "height": "8.25",
+    "pages": "252",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "contemporary ",
+    "feeling": "a guilty"
+  },
+  {
+    "color": "Black",
+    "height": "8",
+    "pages": "202",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "contemporary ",
+    "feeling": "a minimalist"
+  },
+  {
+    "color": "Yellow 2",
+    "height": "8.25",
+    "pages": "180",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "contemporary ",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Blue 3",
+    "height": "8",
+    "pages": "292",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "contemporary ",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Blue 3",
+    "height": "8",
+    "pages": "342",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "contemporary ",
+    "feeling": "a minimalist"
+  },
+  {
+    "color": "Orange 2",
+    "height": "8",
+    "pages": "228",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "contemporary ",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Blue 1",
+    "height": "9",
+    "pages": "220",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "contemporary ",
+    "feeling": "a why did i keep this?"
+  },
+  {
+    "color": "Blue 3",
+    "height": "8",
+    "pages": "144",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "contemporary ",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "White",
+    "height": "8.5",
+    "pages": "146",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "contemporary ",
+    "feeling": "a cringe-stalgic"
+  },
+  {
+    "color": "Multi",
+    "height": "7.75",
+    "pages": "160",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "contemporary ",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Gray",
+    "height": "7.5",
+    "pages": "144",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "contemporary ",
+    "feeling": "a proud"
+  },
+  {
+    "color": "Blue 1",
+    "height": "8",
+    "pages": "146",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "contemporary ",
+    "feeling": "a crimgestalgia"
+  },
+  {
+    "color": "Orange 2",
+    "height": "7.75",
+    "pages": "454",
+    "author": "Philip Kerr",
+    "genre": "fiction",
+    "subgenre": "contemporary ",
+    "feeling": "a guilty"
+  },
+  {
+    "color": "Multi",
+    "height": "8.25",
+    "pages": "220",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "contemporary ",
+    "feeling": "a wist"
+  },
+  {
+    "color": "White",
+    "height": "8",
+    "pages": "284",
+    "author": "Bret Easton Ellis",
+    "genre": "fiction",
+    "subgenre": "contemporary ",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "White",
+    "height": "8",
+    "pages": "406",
+    "author": "Bret Easton Ellis",
+    "genre": "fiction",
+    "subgenre": "contemporary ",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "White",
+    "height": "8",
+    "pages": "120",
+    "author": "Ondaatje ",
+    "genre": "fiction",
+    "subgenre": "contemporary ",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Brown 3",
+    "height": "8",
+    "pages": "104",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "contemporary ",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Silver",
+    "height": "8.5",
+    "pages": "134",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "contemporary ",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Black",
+    "height": "9.5",
+    "pages": "404",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "contemporary ",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "White ",
+    "height": "8",
+    "pages": "320",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "contemporary ",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "White",
+    "height": "9",
+    "pages": "298",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "contemporary ",
+    "feeling": "a proud"
+  },
+  {
+    "color": "Multi",
+    "height": "8",
+    "pages": "88",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "contemporary ",
+    "feeling": "a nostalgic"
+  },
+  {
+    "color": "Orange 3",
+    "height": "7.75",
+    "pages": "376",
+    "author": "Paul Auster",
+    "genre": "fiction",
+    "subgenre": "contemporary ",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Orange 3",
+    "height": "7.75",
+    "pages": "276",
+    "author": "Paul Auster",
+    "genre": "fiction",
+    "subgenre": "contemporary ",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Orange 3",
+    "height": "7.75",
+    "pages": "308",
+    "author": "Paul Auster",
+    "genre": "fiction",
+    "subgenre": "contemporary ",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Yellow 1",
+    "height": "8.25",
+    "pages": "646",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "contemporary ",
+    "feeling": "a best of the best"
+  },
+  {
+    "color": "Orange 2",
+    "height": "8.25",
+    "pages": "224",
+    "author": "Penelope Fitzgerald ",
+    "genre": "fiction",
+    "subgenre": "contemporary ",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Red 3",
+    "height": "8.25",
+    "pages": "124",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "contemporary ",
+    "feeling": "a nostalgic"
+  },
+  {
+    "color": "Orange 3",
+    "height": "8",
+    "pages": "464",
+    "author": "Angela Carter ",
+    "genre": "fiction",
+    "subgenre": "contemporary ",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "White",
+    "height": "6.5",
+    "pages": "152",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "erotica",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Multi",
+    "height": "9.5",
+    "pages": "562",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "general",
+    "feeling": "a cringe-stalgic"
+  },
+  {
+    "color": "Brown 3",
+    "height": "8.5",
+    "pages": "206",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "ghost story",
+    "feeling": "a remniscence"
+  },
+  {
+    "color": "Red 3",
+    "height": "8.5",
+    "pages": "476",
+    "author": "Spark",
+    "genre": "fiction",
+    "subgenre": "moderm",
+    "feeling": "a introspective "
+  },
+  {
+    "color": "Brown 3",
+    "height": "8.25",
+    "pages": "218",
+    "author": "Hesse",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "a minimalist"
+  },
+  {
+    "color": "Green 1",
+    "height": "7.75",
+    "pages": "752",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Black ",
+    "height": "8",
+    "pages": "406",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "a minimalist"
+  },
+  {
+    "color": "Black",
+    "height": "8.5",
+    "pages": "346",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "White",
+    "height": "8",
+    "pages": "438",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Black",
+    "height": "8",
+    "pages": "102",
+    "author": "Hrabal",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "a introspective "
+  },
+  {
+    "color": "Gray",
+    "height": "8",
+    "pages": "246",
+    "author": "Hrabal",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Black",
+    "height": "...",
+    "pages": "245",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "a introspection"
+  },
+  {
+    "color": "Brown 1",
+    "height": "8",
+    "pages": "312",
+    "author": "Camus",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "a guilty"
+  },
+  {
+    "color": "Yellow 1",
+    "height": "8.25",
+    "pages": "120",
+    "author": "Kerouac",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Brown 1",
+    "height": "8",
+    "pages": "220",
+    "author": "De beauvior",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "an introspective"
+  },
+  {
+    "color": "White",
+    "height": "8",
+    "pages": "190",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "a relevant "
+  },
+  {
+    "color": "White",
+    "height": "8",
+    "pages": "256",
+    "author": "Stevie Smith",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Green 3",
+    "height": "7.75",
+    "pages": "232",
+    "author": "Stevie Smith",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "a huh"
+  },
+  {
+    "color": "Orange",
+    "height": "8",
+    "pages": "248",
+    "author": "Kerouac",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "a minimalist"
+  },
+  {
+    "color": "Black",
+    "height": "8",
+    "pages": "178",
+    "author": "Joyce Johnson",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Black",
+    "height": "8",
+    "pages": "422",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "a minimalist"
+  },
+  {
+    "color": "White",
+    "height": "8",
+    "pages": "288",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "a minimalist"
+  },
+  {
+    "color": "Black",
+    "height": "9",
+    "pages": "386",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "White",
+    "height": "8",
+    "pages": "160",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Bronze ",
+    "height": "8",
+    "pages": "330",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Green 1",
+    "height": "8",
+    "pages": "132",
+    "author": "NYRB",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "White",
+    "height": "8",
+    "pages": "244",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Brown 1",
+    "height": "7",
+    "pages": "192",
+    "author": "Spark",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Black",
+    "height": "8",
+    "pages": "598",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Orange 3",
+    "height": "8.25",
+    "pages": "686",
+    "author": "Dahl",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "White",
+    "height": "8",
+    "pages": "208",
+    "author": "Spark",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Black",
+    "height": "8",
+    "pages": "136",
+    "author": "Spark ",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Blue 2",
+    "height": "8.25",
+    "pages": "312",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Black",
+    "height": "8",
+    "pages": "178",
+    "author": "Simenon/NYRB",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Black",
+    "height": "8",
+    "pages": "162",
+    "author": "Simenon/NYRB",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Blue 3",
+    "height": "8",
+    "pages": "278",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "a minimalist"
+  },
+  {
+    "color": "Red 3",
+    "height": "8",
+    "pages": "166",
+    "author": "Spark",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Multi",
+    "height": "8.5",
+    "pages": "224",
+    "author": "De Beauvoir ",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "an introspective"
+  },
+  {
+    "color": "Orange 1",
+    "height": "8.5",
+    "pages": "220",
+    "author": "De Beauvoir ",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Red 3",
+    "height": "8",
+    "pages": "408",
+    "author": "De Beauvoir ",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "a cringe-stalgic"
+  },
+  {
+    "color": "Green 2",
+    "height": "7",
+    "pages": "176",
+    "author": "Simenon",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Orange 3",
+    "height": "7.25",
+    "pages": "272",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "a minimalist"
+  },
+  {
+    "color": "Multi",
+    "height": "7.75",
+    "pages": "308",
+    "author": "Waugh",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Brown 2",
+    "height": "8.5",
+    "pages": "168",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "a minimalist"
+  },
+  {
+    "color": "Blue 2",
+    "height": "8.5",
+    "pages": "192",
+    "author": "Karel Capek",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Multie",
+    "height": "8.5",
+    "pages": "256",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "an introspective"
+  },
+  {
+    "color": "Purple 2",
+    "height": "8.25",
+    "pages": "244",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Blue 2",
+    "height": "8",
+    "pages": "346",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "a minimalist"
+  },
+  {
+    "color": "Blue 1",
+    "height": "8.25",
+    "pages": "208",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "White",
+    "height": "8.25",
+    "pages": "248",
+    "author": "Carson McCullers",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Gold",
+    "height": "8.25",
+    "pages": "354",
+    "author": "Henry Miller",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "a minimalist"
+  },
+  {
+    "color": "Black",
+    "height": "8.25",
+    "pages": "318",
+    "author": "Henry Miller",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "a wistful "
+  },
+  {
+    "color": "Green 1",
+    "height": "8",
+    "pages": "412",
+    "author": "NYRB",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Multi",
+    "height": "7.75",
+    "pages": "278",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "an excited"
+  },
+  {
+    "color": "White ",
+    "height": "8.25",
+    "pages": "184",
+    "author": "Langston Hughes",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Black",
+    "height": "9.25",
+    "pages": "470",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "modern",
+    "feeling": "an introspective"
+  },
+  {
+    "color": "Red 3",
+    "height": "8",
+    "pages": "300",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "modern ",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Gray",
+    "height": "8.5",
+    "pages": "112",
+    "author": "Nin",
+    "genre": "fiction",
+    "subgenre": "modern ",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Purple 1",
+    "height": "8",
+    "pages": "292",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "modern classic",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "White",
+    "height": "8",
+    "pages": "312",
+    "author": "Kundera",
+    "genre": "fiction",
+    "subgenre": "modern classic",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Black",
+    "height": "8",
+    "pages": "314",
+    "author": "Kundera",
+    "genre": "fiction",
+    "subgenre": "modern classic",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Black",
+    "height": "8",
+    "pages": "286",
+    "author": "Kafka",
+    "genre": "fiction",
+    "subgenre": "modern classic",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Orange ",
+    "height": "7.75",
+    "pages": "198",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "modern classic",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Yellow 1",
+    "height": "8.25",
+    "pages": "88",
+    "author": "Kafka",
+    "genre": "fiction",
+    "subgenre": "modern classic",
+    "feeling": "a minimalist"
+  },
+  {
+    "color": "Blue 3",
+    "height": "8",
+    "pages": "134",
+    "author": "Camus ",
+    "genre": "fiction",
+    "subgenre": "modern classic",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Orange 1",
+    "height": "7.75",
+    "pages": "346",
+    "author": "Kerouac",
+    "genre": "fiction",
+    "subgenre": "modern classic",
+    "feeling": "a cringestagia"
+  },
+  {
+    "color": "Blue 2",
+    "height": "7.75",
+    "pages": "214",
+    "author": "Didion",
+    "genre": "fiction",
+    "subgenre": "modern classic",
+    "feeling": "a excited? relevant?"
+  },
+  {
+    "color": "Green 1",
+    "height": "7.75",
+    "pages": "248",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "modern classic",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "White",
+    "height": "8",
+    "pages": "214",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "modern classic",
+    "feeling": "a minimalist"
+  },
+  {
+    "color": "Black",
+    "height": "7.75",
+    "pages": "156",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "modern classic",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Brown 2",
+    "height": "8",
+    "pages": "252",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "modern classic",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Black",
+    "height": "8.5",
+    "pages": "352",
+    "author": "Fitzgerald ",
+    "genre": "fiction",
+    "subgenre": "modern classic",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Multi",
+    "height": "9.5",
+    "pages": "612",
+    "author": "De Beauvoir ",
+    "genre": "fiction",
+    "subgenre": "modern classic",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Purple 1",
+    "height": "6.75",
+    "pages": "282",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "modern classic",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "White",
+    "height": "7",
+    "pages": "182",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "modern classic",
+    "feeling": "a nostalgic "
+  },
+  {
+    "color": "Green 1",
+    "height": "7.75",
+    "pages": "224",
+    "author": "Greene",
+    "genre": "fiction",
+    "subgenre": "modern classic",
+    "feeling": "a guilty soon"
+  },
+  {
+    "color": "Green 1",
+    "height": "7.75",
+    "pages": "192",
+    "author": "Greene",
+    "genre": "fiction",
+    "subgenre": "modern classic",
+    "feeling": "a nostalgic"
+  },
+  {
+    "color": "White",
+    "height": "8.25",
+    "pages": "360",
+    "author": "McCullers",
+    "genre": "fiction",
+    "subgenre": "modern classic",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Gray",
+    "height": "8.25",
+    "pages": "560",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "modern classic ",
+    "feeling": "a curious"
+  },
+  {
+    "color": "Black",
+    "height": "8",
+    "pages": "792",
+    "author": "Eggers",
+    "genre": "fiction",
+    "subgenre": "popular",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Black",
+    "height": "8",
+    "pages": "404",
+    "author": "Eggers",
+    "genre": "fiction",
+    "subgenre": "popular",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Blue 3",
+    "height": "7",
+    "pages": "288",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "postmodern",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Black",
+    "height": "9.25",
+    "pages": "672",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "postmodern",
+    "feeling": "an introspective"
+  },
+  {
+    "color": "Multi",
+    "height": "8.75",
+    "pages": "436",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "postmodern",
+    "feeling": "a minimalist"
+  },
+  {
+    "color": "Green 1",
+    "height": "8",
+    "pages": "568",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "postmodern",
+    "feeling": "a minimalist"
+  },
+  {
+    "color": "Gray",
+    "height": "8",
+    "pages": "136",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "postmodern",
+    "feeling": "a nostalgic "
+  },
+  {
+    "color": "White",
+    "height": "7.5",
+    "pages": "196",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "postmodern classic",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Blue 1",
+    "height": "8.25",
+    "pages": "98",
+    "author": "Dover Thrift",
+    "genre": "fiction",
+    "subgenre": "satire",
+    "feeling": "a guilty"
+  },
+  {
+    "color": "Multi",
+    "height": "8",
+    "pages": "392",
+    "author": "",
+    "genre": "fiction",
+    "subgenre": "sf",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Blue 2",
+    "height": "7.5",
+    "pages": "128",
+    "author": "Louis Sachar",
+    "genre": "fiction",
+    "subgenre": "youth",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Blue 2",
+    "height": "7.5",
+    "pages": "168",
+    "author": "Louis Sachar",
+    "genre": "fiction",
+    "subgenre": "youth",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Green 2",
+    "height": "7.5",
+    "pages": "184",
+    "author": "Louis Sachar",
+    "genre": "fiction",
+    "subgenre": "youth",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Black",
+    "height": "9.25",
+    "pages": "816",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Black",
+    "height": "8.25",
+    "pages": "192",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "a guilty"
+  },
+  {
+    "color": "Red 2",
+    "height": "5",
+    "pages": "252",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "fiction",
+    "feeling": "a nostalgic"
+  },
+  {
+    "color": "Brown 1",
+    "height": "9",
+    "pages": "84",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "poetry",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "White",
+    "height": "9.5",
+    "pages": "892",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "la",
+    "feeling": "an introspective"
+  },
+  {
+    "color": "Brown 2",
+    "height": "8.25",
+    "pages": "318",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "sf",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Red 3",
+    "height": "12",
+    "pages": "158",
+    "author": "Solnit",
+    "genre": "grab bag",
+    "subgenre": "sf",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Blue 2",
+    "height": "8",
+    "pages": "192",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "sf",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Yellow 3",
+    "height": "8.25",
+    "pages": "98",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "art",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "White",
+    "height": "9.25",
+    "pages": "224",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "design",
+    "feeling": "a guilty"
+  },
+  {
+    "color": "Brown 1",
+    "height": "12",
+    "pages": "12",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "biology",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Brown 1",
+    "height": "9",
+    "pages": "312",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "theory",
+    "feeling": "a interest "
+  },
+  {
+    "color": "Brown 2",
+    "height": "9",
+    "pages": "362",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "White",
+    "height": "8",
+    "pages": "190",
+    "author": "Foucault",
+    "genre": "literary theory",
+    "subgenre": "",
+    "feeling": "an introspective"
+  },
+  {
+    "color": "Purple 2",
+    "height": "9.5",
+    "pages": "520",
+    "author": "Benjamin",
+    "genre": "literary theory",
+    "subgenre": "",
+    "feeling": "a introspective "
+  },
+  {
+    "color": "Black",
+    "height": "10",
+    "pages": "1074",
+    "author": "Benjamin",
+    "genre": "literary theory",
+    "subgenre": "",
+    "feeling": "an introspective"
+  },
+  {
+    "color": "Red 1",
+    "height": "8",
+    "pages": "290",
+    "author": "Foucault",
+    "genre": "literary theory",
+    "subgenre": "",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Brown 1",
+    "height": "8",
+    "pages": "160",
+    "author": "",
+    "genre": "literary theory",
+    "subgenre": "",
+    "feeling": "a minimalist"
+  },
+  {
+    "color": "Green 3",
+    "height": "8",
+    "pages": "160",
+    "author": "",
+    "genre": "literary theory",
+    "subgenre": "",
+    "feeling": "a excited?"
+  },
+  {
+    "color": "Yellow 1",
+    "height": "8",
+    "pages": "282",
+    "author": "Benjamin",
+    "genre": "literary theory",
+    "subgenre": "",
+    "feeling": "an introspective"
+  },
+  {
+    "color": "Yellow 1",
+    "height": "8",
+    "pages": "352",
+    "author": "Benjamin ",
+    "genre": "literary theory",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Multi",
+    "height": "8",
+    "pages": "170",
+    "author": "Foucault",
+    "genre": "literary theory",
+    "subgenre": "",
+    "feeling": "a nostalgic"
+  },
+  {
+    "color": "Black",
+    "height": "8",
+    "pages": "334",
+    "author": "Foucault",
+    "genre": "literary theory",
+    "subgenre": "",
+    "feeling": "a nostalgic"
+  },
+  {
+    "color": "Purple 1",
+    "height": "8.25",
+    "pages": "248",
+    "author": "Foucault",
+    "genre": "literary theory",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "White",
+    "height": "8.25",
+    "pages": "364",
+    "author": "",
+    "genre": "literary theory",
+    "subgenre": "",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Orange 3",
+    "height": "9",
+    "pages": "366",
+    "author": "Derrida",
+    "genre": "literary theory",
+    "subgenre": "",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "White",
+    "height": "9.25",
+    "pages": "88",
+    "author": "",
+    "genre": "literary theory",
+    "subgenre": "",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "White",
+    "height": "9",
+    "pages": "320",
+    "author": "",
+    "genre": "literary theory",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Black",
+    "height": "9",
+    "pages": "160",
+    "author": "Derrida",
+    "genre": "literary theory",
+    "subgenre": "",
+    "feeling": "a minimalist"
+  },
+  {
+    "color": "White ",
+    "height": "9",
+    "pages": "160",
+    "author": "",
+    "genre": "literary theory",
+    "subgenre": "",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Multi",
+    "height": "8",
+    "pages": "324",
+    "author": "",
+    "genre": "literary theory",
+    "subgenre": "",
+    "feeling": "a minimalist"
+  },
+  {
+    "color": "Purple 3",
+    "height": "9",
+    "pages": "444",
+    "author": "",
+    "genre": "literary theory",
+    "subgenre": "",
+    "feeling": "a nostslgia"
+  },
+  {
+    "color": "Multi",
+    "height": "7",
+    "pages": "152",
+    "author": "",
+    "genre": "literary theory",
+    "subgenre": "",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Red 2",
+    "height": "9.5",
+    "pages": "910",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "reference",
+    "feeling": "a guilty more"
+  },
+  {
+    "color": "Gray",
+    "height": "9.25",
+    "pages": "380",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "instructional",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Gold",
+    "height": "8",
+    "pages": "266",
+    "author": "Chandler",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "a affectionate "
+  },
+  {
+    "color": "Black",
+    "height": "8",
+    "pages": "380",
+    "author": "Chandler",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "a affectionate "
+  },
+  {
+    "color": "Orange 2",
+    "height": "8",
+    "pages": "280",
+    "author": "Ross Macdonald",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "a affectionate "
+  },
+  {
+    "color": "Back",
+    "height": "8",
+    "pages": "120",
+    "author": "",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Green 1",
+    "height": "8",
+    "pages": "170",
+    "author": "Chandler",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "a affectionate "
+  },
+  {
+    "color": "Blue 2",
+    "height": "8",
+    "pages": "330",
+    "author": "Winspear",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "a curious"
+  },
+  {
+    "color": "Green 1",
+    "height": "8",
+    "pages": "252",
+    "author": "Chandler",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Green 1",
+    "height": "8",
+    "pages": "202",
+    "author": "Hammett",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Black",
+    "height": "8",
+    "pages": "246",
+    "author": "Ross MacDonald",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Black",
+    "height": "8",
+    "pages": "252",
+    "author": "Ross MacDonald",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "White",
+    "height": "8.25",
+    "pages": "162",
+    "author": "Simenon",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Black",
+    "height": "8.25",
+    "pages": "152",
+    "author": "Simenon",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Pink",
+    "height": "8",
+    "pages": "298",
+    "author": "Chandler ",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Green 3",
+    "height": "8",
+    "pages": "234",
+    "author": "Chandler ",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "a cozy"
+  },
+  {
+    "color": "Black",
+    "height": "8",
+    "pages": "252",
+    "author": "Ross MacDonald",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Purple 1",
+    "height": "8",
+    "pages": "268",
+    "author": "Chandler",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Orange 2",
+    "height": "7.75",
+    "pages": "384",
+    "author": "Fforde",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Purple",
+    "height": "7",
+    "pages": "384",
+    "author": "Sayers",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "a curious"
+  },
+  {
+    "color": "Purple 1",
+    "height": "7",
+    "pages": "360",
+    "author": "Sayers",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Yellow 1",
+    "height": "7",
+    "pages": "406",
+    "author": "Sayers",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "a hemophilia"
+  },
+  {
+    "color": "Teal",
+    "height": "7",
+    "pages": "192",
+    "author": "Simenon",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "a cozy"
+  },
+  {
+    "color": "Brown 2",
+    "height": "7",
+    "pages": "192",
+    "author": "Simenon",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "a cozy"
+  },
+  {
+    "color": "Green 1",
+    "height": "7",
+    "pages": "128",
+    "author": "Simenon",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Green 2",
+    "height": "7",
+    "pages": "148",
+    "author": "Simenon",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Green 2",
+    "height": "7",
+    "pages": "144",
+    "author": "Simenon",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Green 2",
+    "height": "7",
+    "pages": "128",
+    "author": "Simenon",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Green 2",
+    "height": "7",
+    "pages": "144",
+    "author": "Simenon",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Black",
+    "height": "7",
+    "pages": "154",
+    "author": "Simenon",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "White",
+    "height": "7",
+    "pages": "190",
+    "author": "Simenon",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "a "
+  },
+  {
+    "color": "Green 2",
+    "height": "7",
+    "pages": "164",
+    "author": "Sayers",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Yellow 1",
+    "height": "7",
+    "pages": "442",
+    "author": "Sayers",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Orange 1",
+    "height": "7",
+    "pages": "358",
+    "author": "Sayers",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Black",
+    "height": "8",
+    "pages": "408",
+    "author": "Sayers",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "White",
+    "height": "8.5",
+    "pages": "174",
+    "author": "Simenon",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Blue 2",
+    "height": "7",
+    "pages": "192",
+    "author": "Sayers",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "a curious"
+  },
+  {
+    "color": "Blue 3",
+    "height": "7",
+    "pages": "154",
+    "author": "Simenon",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Orange 2",
+    "height": "7",
+    "pages": "198",
+    "author": "Ross MacDonald",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "a curious"
+  },
+  {
+    "color": "Black",
+    "height": "6.5",
+    "pages": "170",
+    "author": "Simenon",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Black",
+    "height": "6.5",
+    "pages": "170",
+    "author": "Simenon",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Blue 2",
+    "height": "6.75",
+    "pages": "264",
+    "author": "Ross MacDonald",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Black",
+    "height": "6.75",
+    "pages": "184",
+    "author": "Ross MacDonald",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Orange 2",
+    "height": "7",
+    "pages": "188",
+    "author": "Ross MacDonald",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Black",
+    "height": "6.75",
+    "pages": "218",
+    "author": "Ross MacDonald",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "a guilty"
+  },
+  {
+    "color": "Black",
+    "height": "6.75",
+    "pages": "248",
+    "author": "Ross MacDonald",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "a guilty"
+  },
+  {
+    "color": "Blue 1",
+    "height": "7",
+    "pages": "218",
+    "author": "Ross MacDonald",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Green 1",
+    "height": "7",
+    "pages": "248",
+    "author": "Sayers",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Purple 3",
+    "height": "7",
+    "pages": "192",
+    "author": "Sayers",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Yellow 1",
+    "height": "7",
+    "pages": "270",
+    "author": "Sayers",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Brown 1",
+    "height": "7",
+    "pages": "280",
+    "author": "Sayers",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "White",
+    "height": "7",
+    "pages": "216",
+    "author": "Sayers",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "White",
+    "height": "7",
+    "pages": "176",
+    "author": "Simenon ",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Black",
+    "height": "8",
+    "pages": "204",
+    "author": "Simenon",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "a guilty"
+  },
+  {
+    "color": "Red 3",
+    "height": "8",
+    "pages": "244",
+    "author": "Ross MacDonald",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Orange 1",
+    "height": "8",
+    "pages": "310",
+    "author": "Winspear",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Blue 1",
+    "height": "8",
+    "pages": "298",
+    "author": "Simenon ",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Gray",
+    "height": "8.25",
+    "pages": "280",
+    "author": "Highsmith",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Black",
+    "height": "8.5",
+    "pages": "184",
+    "author": "",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "a guilty"
+  },
+  {
+    "color": "White",
+    "height": "8.5",
+    "pages": "190",
+    "author": "",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Yellow 1",
+    "height": "7.75",
+    "pages": "278",
+    "author": "",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "a guilty "
+  },
+  {
+    "color": "Multi ",
+    "height": "8",
+    "pages": "288",
+    "author": "Josephine Tey",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Multi",
+    "height": "8",
+    "pages": "224",
+    "author": "Josephine Tey",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Black",
+    "height": "8.25",
+    "pages": "296",
+    "author": "",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Blue 3",
+    "height": "8.5",
+    "pages": "384",
+    "author": "Fforde",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "White",
+    "height": "8.75",
+    "pages": "248",
+    "author": "",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Multi",
+    "height": "8",
+    "pages": "194",
+    "author": "",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Red",
+    "height": "8.25",
+    "pages": "356",
+    "author": "",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Purple 1",
+    "height": "8.25",
+    "pages": "108",
+    "author": "Dover thrift",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Multi",
+    "height": "8",
+    "pages": "326",
+    "author": "Kathryn Miller Haines",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Multi",
+    "height": "8",
+    "pages": "324",
+    "author": "Kathryn Miller Haines",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Multi",
+    "height": "8",
+    "pages": "338",
+    "author": "Kathryn Miller Haines",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Multi",
+    "height": "8",
+    "pages": "326",
+    "author": "Kathryn Miller Haines",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Yellow 1",
+    "height": "7.75",
+    "pages": "182",
+    "author": "",
+    "genre": "mystery",
+    "subgenre": "",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Gold",
+    "height": "8",
+    "pages": "217",
+    "author": "Hammett",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Black",
+    "height": "8",
+    "pages": "276",
+    "author": "MacDonald",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Black",
+    "height": "8",
+    "pages": "246",
+    "author": "MacDonald",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Blue 2",
+    "height": "8",
+    "pages": "238",
+    "author": "Dorothy Sayers ",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "a curious"
+  },
+  {
+    "color": "Orange 1",
+    "height": "8",
+    "pages": "254",
+    "author": "Dorothy Sayers ",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "a curious"
+  },
+  {
+    "color": "Pink",
+    "height": "8",
+    "pages": "216",
+    "author": "Dorothy Sayers ",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "a curious"
+  },
+  {
+    "color": "Black",
+    "height": "8",
+    "pages": "184",
+    "author": "Simenon",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Black",
+    "height": "8",
+    "pages": "172",
+    "author": "Simenon",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Black",
+    "height": "8",
+    "pages": "184",
+    "author": "Simenon",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Black",
+    "height": "8",
+    "pages": "164",
+    "author": "Simenon",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Black",
+    "height": "8",
+    "pages": "188",
+    "author": "Simenon",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Black",
+    "height": "8",
+    "pages": "166",
+    "author": "Simenon",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Black",
+    "height": "8",
+    "pages": "168",
+    "author": "Simenon",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Black",
+    "height": "8",
+    "pages": "186",
+    "author": "Simenon",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Black",
+    "height": "8",
+    "pages": "172",
+    "author": "Simenon",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Orange ",
+    "height": "7.75",
+    "pages": "376",
+    "author": "Fforde",
+    "genre": "mystery",
+    "subgenre": "adventure",
+    "feeling": "a affectionate "
+  },
+  {
+    "color": "Orange",
+    "height": "7.75",
+    "pages": "394",
+    "author": "Fforde",
+    "genre": "mystery",
+    "subgenre": "adventure",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Orange",
+    "height": "7.75",
+    "pages": "364",
+    "author": "Fforde",
+    "genre": "mystery",
+    "subgenre": "adventure",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Blue 2",
+    "height": "8.25",
+    "pages": "286",
+    "author": "",
+    "genre": "mystery",
+    "subgenre": "suspense",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Black",
+    "height": "9.5",
+    "pages": "384",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "history",
+    "feeling": "a i was such a weird kid"
+  },
+  {
+    "color": "Black ",
+    "height": "9",
+    "pages": "266",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Black",
+    "height": "8.75",
+    "pages": "212",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "a guilty"
+  },
+  {
+    "color": "Gray",
+    "height": "8.5",
+    "pages": "182",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "a remembrance "
+  },
+  {
+    "color": "Brown 3",
+    "height": "8.75",
+    "pages": "140",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "adventure",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Multi",
+    "height": "8",
+    "pages": "252",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "autobigraphy",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "White",
+    "height": "8",
+    "pages": "280",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "autobiography",
+    "feeling": "an introspective"
+  },
+  {
+    "color": "Multi",
+    "height": "8",
+    "pages": "412",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "autobiography",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Yellow 2",
+    "height": "8.5",
+    "pages": "178",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "autobiography ",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Black",
+    "height": "9.25",
+    "pages": "288",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "autobiography ",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Black",
+    "height": "9.5",
+    "pages": "238",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "autobiography ",
+    "feeling": "a affectionate "
+  },
+  {
+    "color": "White",
+    "height": "7.75",
+    "pages": "190",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "autobiography ",
+    "feeling": "a i should really read this"
+  },
+  {
+    "color": "Green 1",
+    "height": "7.75",
+    "pages": "166",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "autobiography ",
+    "feeling": "a i should really read this"
+  },
+  {
+    "color": "Brown 3",
+    "height": "8",
+    "pages": "298",
+    "author": "NYRB",
+    "genre": "nonfiction",
+    "subgenre": "autobiography ",
+    "feeling": "a guilty"
+  },
+  {
+    "color": "Red 3",
+    "height": "8.5",
+    "pages": "198",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "autobiography ",
+    "feeling": "a read tomorrow!"
+  },
+  {
+    "color": "Red 3",
+    "height": "8",
+    "pages": "366",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "autobiography ",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Brown 1",
+    "height": "8",
+    "pages": "236",
+    "author": "Doris Lessing",
+    "genre": "nonfiction",
+    "subgenre": "autobiography ",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Yellow 1",
+    "height": "8",
+    "pages": "232",
+    "author": "Didion",
+    "genre": "nonfiction",
+    "subgenre": "autobiography ",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Brown 1",
+    "height": "7.75",
+    "pages": "272",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "autobiography ",
+    "feeling": "a minimalist"
+  },
+  {
+    "color": "White",
+    "height": "7.75",
+    "pages": "238",
+    "author": "Joyce Johnson ",
+    "genre": "nonfiction",
+    "subgenre": "autobiography ",
+    "feeling": "a introspective "
+  },
+  {
+    "color": "Multi",
+    "height": "8.25",
+    "pages": "368",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "autobiography ",
+    "feeling": "a guilty"
+  },
+  {
+    "color": "Gray",
+    "height": "7.75",
+    "pages": "340",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "autobiography ",
+    "feeling": "a cringe-stalgic"
+  },
+  {
+    "color": "White",
+    "height": "8.75",
+    "pages": "108",
+    "author": "De Beauvoir ",
+    "genre": "nonfiction",
+    "subgenre": "autobiography ",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Green 2",
+    "height": "9",
+    "pages": "468",
+    "author": "De Beauvoir ",
+    "genre": "nonfiction",
+    "subgenre": "autobiography ",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Green 1",
+    "height": "9",
+    "pages": "480",
+    "author": "De Beauvoir ",
+    "genre": "nonfiction",
+    "subgenre": "autobiography ",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "White",
+    "height": "9",
+    "pages": "398",
+    "author": "De Beauvoir ",
+    "genre": "nonfiction",
+    "subgenre": "autobiography ",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Green 1",
+    "height": "7.75",
+    "pages": "666",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "autobiography ",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Black",
+    "height": "8.5",
+    "pages": "434",
+    "author": "Nin",
+    "genre": "nonfiction",
+    "subgenre": "autobiography ",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Black",
+    "height": "8",
+    "pages": "372",
+    "author": "Nin",
+    "genre": "nonfiction",
+    "subgenre": "autobiography ",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Red 3",
+    "height": "8.25",
+    "pages": "228",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "autobiography ",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Multi",
+    "height": "9.5",
+    "pages": "418",
+    "author": "Nin",
+    "genre": "nonfiction",
+    "subgenre": "autobiography ",
+    "feeling": "a cringe-stalgic"
+  },
+  {
+    "color": "Multi",
+    "height": "9.5",
+    "pages": "674",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "autobiography ",
+    "feeling": "a why do i have this?"
+  },
+  {
+    "color": " Blue 2",
+    "height": "8.25",
+    "pages": "248",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "autobiography ",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "White ",
+    "height": "8.5",
+    "pages": "342",
+    "author": "Langston Hughes",
+    "genre": "nonfiction",
+    "subgenre": "autobiography ",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Black",
+    "height": "9.25",
+    "pages": "218",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "autobiography ",
+    "feeling": "an introspective"
+  },
+  {
+    "color": "Purple",
+    "height": "9.5",
+    "pages": "658",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "bio",
+    "feeling": "a guilty"
+  },
+  {
+    "color": "White",
+    "height": "9.25",
+    "pages": "720",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "biography",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Black",
+    "height": "9.25",
+    "pages": "374",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "biography ",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Gray",
+    "height": "9.5",
+    "pages": "558",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "biography ",
+    "feeling": "a minimalist"
+  },
+  {
+    "color": "Multi",
+    "height": "8.5",
+    "pages": "324",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "biography ",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Multi",
+    "height": "6.5",
+    "pages": "288",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "biology",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Green 2",
+    "height": "9",
+    "pages": "448",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "biology",
+    "feeling": "a guilty"
+  },
+  {
+    "color": "Multi",
+    "height": "9.75",
+    "pages": "64",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "children's",
+    "feeling": "a nostalgic "
+  },
+  {
+    "color": "Brown 1",
+    "height": "8",
+    "pages": "198",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "comical history",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Yellow 3",
+    "height": "8.5",
+    "pages": "256",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "cycling",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Black",
+    "height": "6.75",
+    "pages": "160",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "erotica",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "None",
+    "height": "8.25",
+    "pages": "48",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "essay",
+    "feeling": "a guilty"
+  },
+  {
+    "color": "Copper 2",
+    "height": "8",
+    "pages": "320",
+    "author": "Orwell",
+    "genre": "nonfiction",
+    "subgenre": "essay",
+    "feeling": "a cozy"
+  },
+  {
+    "color": "Brown 1",
+    "height": "9",
+    "pages": "278",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "essay",
+    "feeling": "a this book was stupid"
+  },
+  {
+    "color": "White",
+    "height": "8.5",
+    "pages": "278",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "essay",
+    "feeling": "a curious"
+  },
+  {
+    "color": "Green 1",
+    "height": "7.25",
+    "pages": "312",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "essay",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Silver",
+    "height": "8.25",
+    "pages": "866",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "essay",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Silver",
+    "height": "7.5",
+    "pages": "428",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "essay",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Blue 2",
+    "height": "8.25",
+    "pages": "402",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "essay",
+    "feeling": "an introspective"
+  },
+  {
+    "color": "White ",
+    "height": "7.75",
+    "pages": "132",
+    "author": "Simenon",
+    "genre": "nonfiction",
+    "subgenre": "essay",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Black",
+    "height": "8",
+    "pages": "208",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "essay",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Yellow 1",
+    "height": "8.5",
+    "pages": "210",
+    "author": "Natalia Ginzburg",
+    "genre": "nonfiction",
+    "subgenre": "essay",
+    "feeling": "an introspective"
+  },
+  {
+    "color": "Gray",
+    "height": "8",
+    "pages": "430",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "essay",
+    "feeling": "a guilty"
+  },
+  {
+    "color": "Black ",
+    "height": "8.5",
+    "pages": "92",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "essay",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Multi",
+    "height": "9.25",
+    "pages": "280",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "essay",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Gold",
+    "height": "8.5",
+    "pages": "146",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "essay",
+    "feeling": "a unexplained hostility "
+  },
+  {
+    "color": "Black",
+    "height": "8.25",
+    "pages": "306",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "essay",
+    "feeling": "an introspective"
+  },
+  {
+    "color": "Brown 1",
+    "height": "8.25",
+    "pages": "714",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "essay",
+    "feeling": "a old"
+  },
+  {
+    "color": "Multi",
+    "height": "8",
+    "pages": "198",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "essay",
+    "feeling": "a excited?"
+  },
+  {
+    "color": "Gray",
+    "height": "7",
+    "pages": "62",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "essay",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Gray",
+    "height": "8",
+    "pages": "240",
+    "author": "Orwell",
+    "genre": "nonfiction",
+    "subgenre": "essay",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Yellow 2",
+    "height": "8",
+    "pages": "232",
+    "author": "Orwell",
+    "genre": "nonfiction",
+    "subgenre": "essay",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Gray",
+    "height": "8",
+    "pages": "220",
+    "author": "Orwell",
+    "genre": "nonfiction",
+    "subgenre": "essay",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Yellow 2",
+    "height": "8",
+    "pages": "240",
+    "author": "Didion",
+    "genre": "nonfiction",
+    "subgenre": "essay",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Black",
+    "height": "8",
+    "pages": "320",
+    "author": "Didion",
+    "genre": "nonfiction",
+    "subgenre": "essay",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Blue 2",
+    "height": "8",
+    "pages": "238",
+    "author": "Didion",
+    "genre": "nonfiction",
+    "subgenre": "essay",
+    "feeling": "an introspective"
+  },
+  {
+    "color": "Purple 1",
+    "height": "8",
+    "pages": "224",
+    "author": "Didion",
+    "genre": "nonfiction",
+    "subgenre": "essay",
+    "feeling": "an introspective"
+  },
+  {
+    "color": "Black",
+    "height": "7.75",
+    "pages": "430",
+    "author": "Steinbeck ",
+    "genre": "nonfiction",
+    "subgenre": "essay",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Blue 1",
+    "height": "8.25",
+    "pages": "112",
+    "author": "Natalia Ginzburg",
+    "genre": "nonfiction",
+    "subgenre": "essay",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Black",
+    "height": "8.5",
+    "pages": "230",
+    "author": "Bell hooks",
+    "genre": "nonfiction",
+    "subgenre": "essay",
+    "feeling": "an excited"
+  },
+  {
+    "color": "White",
+    "height": "8.5",
+    "pages": "304",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "essay",
+    "feeling": "a proud"
+  },
+  {
+    "color": "Gray",
+    "height": "8",
+    "pages": "370",
+    "author": "E.B. White",
+    "genre": "nonfiction",
+    "subgenre": "essay",
+    "feeling": "an introspective"
+  },
+  {
+    "color": "Multi",
+    "height": "8.5",
+    "pages": "276",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "essay",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Blue 1",
+    "height": "8",
+    "pages": "288",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "essay",
+    "feeling": "a remniscence"
+  },
+  {
+    "color": "Multi",
+    "height": "8",
+    "pages": "204",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "essays",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "White",
+    "height": "7.5",
+    "pages": "192",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "essays",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Blue 1",
+    "height": "8.25",
+    "pages": "320",
+    "author": "Sontag",
+    "genre": "nonfiction",
+    "subgenre": "essays",
+    "feeling": "a minimalist"
+  },
+  {
+    "color": "Multi",
+    "height": "9.5",
+    "pages": "342",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "essays",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Pink 3",
+    "height": "8.75",
+    "pages": "178",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "essays",
+    "feeling": "a curious"
+  },
+  {
+    "color": "Green 1",
+    "height": "8.5",
+    "pages": "358",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "essays",
+    "feeling": "a minimalist"
+  },
+  {
+    "color": "White",
+    "height": "8.75",
+    "pages": "254",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "essays",
+    "feeling": "a wistful "
+  },
+  {
+    "color": "Green 1",
+    "height": "8.25",
+    "pages": "298",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "essays",
+    "feeling": "an introspective"
+  },
+  {
+    "color": "White",
+    "height": "8.25",
+    "pages": "380",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "essays",
+    "feeling": "a affectionate "
+  },
+  {
+    "color": "Green 2",
+    "height": "8.25",
+    "pages": "342",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "essays",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Blue 2",
+    "height": "8.25",
+    "pages": "212",
+    "author": "Sontag",
+    "genre": "nonfiction",
+    "subgenre": "essays",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Orange 2",
+    "height": "8.5",
+    "pages": "212",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "essays",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "White",
+    "height": "8.5",
+    "pages": "192",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "essays ",
+    "feeling": "a proud"
+  },
+  {
+    "color": "Black",
+    "height": "9.25",
+    "pages": "384",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "general sports",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Red 2",
+    "height": "8.5",
+    "pages": "96",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "geography",
+    "feeling": "a minimalist"
+  },
+  {
+    "color": "Brown 1",
+    "height": "9",
+    "pages": "370",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "health reference",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Brown 2",
+    "height": "8.5",
+    "pages": "566",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "history",
+    "feeling": "a guilty"
+  },
+  {
+    "color": "Red 1",
+    "height": "10.25",
+    "pages": "104",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "history",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Red 3",
+    "height": "8",
+    "pages": "238",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "history",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Green 3",
+    "height": "9",
+    "pages": "246",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "history",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Blue 1",
+    "height": "8",
+    "pages": "352",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "history",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Brown 2",
+    "height": "8.75",
+    "pages": "260",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "history",
+    "feeling": "a guilty"
+  },
+  {
+    "color": "Multi",
+    "height": "9",
+    "pages": "292",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "history",
+    "feeling": "an excited"
+  },
+  {
+    "color": "White",
+    "height": "8",
+    "pages": "420",
+    "author": "Bryson",
+    "genre": "nonfiction",
+    "subgenre": "history",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "White",
+    "height": "8",
+    "pages": "272",
+    "author": "Bryson",
+    "genre": "nonfiction",
+    "subgenre": "history",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Gold",
+    "height": "8",
+    "pages": "530",
+    "author": "Arendt",
+    "genre": "nonfiction",
+    "subgenre": "history",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "White ",
+    "height": "8",
+    "pages": "336",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "history",
+    "feeling": "a minimalist"
+  },
+  {
+    "color": "Red 2",
+    "height": "8",
+    "pages": "346",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "history",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Yellow 1",
+    "height": "8",
+    "pages": "420",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "history",
+    "feeling": "a guilty"
+  },
+  {
+    "color": "White",
+    "height": "9",
+    "pages": "498",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "history",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Balck",
+    "height": "8.5",
+    "pages": "190",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "history",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Blue 3",
+    "height": "8.5",
+    "pages": "294",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "history",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Multi",
+    "height": "9.25",
+    "pages": "314",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "history",
+    "feeling": "an introspective"
+  },
+  {
+    "color": "Silver",
+    "height": "7.5",
+    "pages": "182",
+    "author": "Solnit",
+    "genre": "nonfiction",
+    "subgenre": "history",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Multi",
+    "height": "8",
+    "pages": "230",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "history",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Multi",
+    "height": "9.5",
+    "pages": "484",
+    "author": "Mike Davis ",
+    "genre": "nonfiction",
+    "subgenre": "history",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Brown 1",
+    "height": "9.5",
+    "pages": "546",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "history",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Green 1",
+    "height": "9.75",
+    "pages": "614",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "history",
+    "feeling": "a minimalist"
+  },
+  {
+    "color": "Black",
+    "height": "7",
+    "pages": "376",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "history",
+    "feeling": "a remniscence "
+  },
+  {
+    "color": "Orange 3",
+    "height": "9.5",
+    "pages": "322",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "history",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Multi",
+    "height": "9.25",
+    "pages": "342",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "history",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "White",
+    "height": "9",
+    "pages": "348",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "history",
+    "feeling": "a nostalgic"
+  },
+  {
+    "color": "Orange 3",
+    "height": "7.75",
+    "pages": "418",
+    "author": "Mike Davis ",
+    "genre": "nonfiction",
+    "subgenre": "history",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Multi",
+    "height": "8",
+    "pages": "432",
+    "author": "Mike Davis ",
+    "genre": "nonfiction",
+    "subgenre": "history",
+    "feeling": "a nostalgic"
+  },
+  {
+    "color": "Blue 3",
+    "height": "8",
+    "pages": "678",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "history",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Red 3",
+    "height": "9",
+    "pages": "426",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "history",
+    "feeling": "a nostalgic"
+  },
+  {
+    "color": "Multi",
+    "height": "8",
+    "pages": "424",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "history",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "White ",
+    "height": "9.5",
+    "pages": "1,082",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "history",
+    "feeling": "a minimalist"
+  },
+  {
+    "color": "White",
+    "height": "9.5",
+    "pages": "490",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "history",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Red. 3",
+    "height": "9.25",
+    "pages": "278",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "history",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Multi",
+    "height": "9.5",
+    "pages": "408",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "history",
+    "feeling": "a so weird"
+  },
+  {
+    "color": "White",
+    "height": "9.5",
+    "pages": "354",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "history",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "White",
+    "height": "8.5",
+    "pages": "48",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "history",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Orange 2",
+    "height": "8",
+    "pages": "310",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "history",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Blue 2",
+    "height": "7.75",
+    "pages": "228",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "history ",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "White",
+    "height": "8",
+    "pages": "466",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "history ",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Purple 1",
+    "height": "8",
+    "pages": "206",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "histoy",
+    "feeling": "a proud"
+  },
+  {
+    "color": "White",
+    "height": "7",
+    "pages": "176",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "humor",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Multi",
+    "height": "8.5",
+    "pages": "248",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "humor",
+    "feeling": "a cringe-stalgic"
+  },
+  {
+    "color": "Multi",
+    "height": "11.25",
+    "pages": "128",
+    "author": "Tufte",
+    "genre": "nonfiction",
+    "subgenre": "information theory",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Multi",
+    "height": "11.25",
+    "pages": "214",
+    "author": "Tufte",
+    "genre": "nonfiction",
+    "subgenre": "information theory",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Multi",
+    "height": "11.25",
+    "pages": "200",
+    "author": "Tufte",
+    "genre": "nonfiction",
+    "subgenre": "information theory",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Multi",
+    "height": "11.25",
+    "pages": "158",
+    "author": "Tufte",
+    "genre": "nonfiction",
+    "subgenre": "information theory",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Red 3",
+    "height": "7.5",
+    "pages": "230",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "instructional",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "White",
+    "height": "8.5",
+    "pages": "276",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "judo",
+    "feeling": "a guilty"
+  },
+  {
+    "color": "Grey",
+    "height": "6.5",
+    "pages": "118",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "music ",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Green 2",
+    "height": "9",
+    "pages": "352",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "oral history",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Yellow 1",
+    "height": "8.25",
+    "pages": "384",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "philosophy",
+    "feeling": "a cringe-stalgic"
+  },
+  {
+    "color": "Green 2",
+    "height": "8",
+    "pages": "122",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "polemic",
+    "feeling": "a nostalgic"
+  },
+  {
+    "color": "White",
+    "height": "8.25",
+    "pages": "276",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "polemic",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "White",
+    "height": "8.25",
+    "pages": "414",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "polemic",
+    "feeling": "a minimalist"
+  },
+  {
+    "color": "Black ",
+    "height": "8",
+    "pages": "212",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "psychology",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Orange 3",
+    "height": "8.75",
+    "pages": "258",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "psychology",
+    "feeling": "a cringe-stalgic"
+  },
+  {
+    "color": "White",
+    "height": "7.5",
+    "pages": "160",
+    "author": "",
+    "genre": "nonfiction",
+    "subgenre": "reference",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "White",
+    "height": "8",
+    "pages": "328",
+    "author": "Bryson",
+    "genre": "nonfiction",
+    "subgenre": "travel essay",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Blue 3",
+    "height": "8",
+    "pages": "144",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "how-to",
+    "feeling": "a minimalist"
+  },
+  {
+    "color": "Green 1",
+    "height": "7.12",
+    "pages": "224",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "instruction",
+    "feeling": "an empowered"
+  },
+  {
+    "color": "Gray",
+    "height": "7.25",
+    "pages": "314",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Orange 3",
+    "height": "8.25",
+    "pages": "96",
+    "author": "Sartre",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Black",
+    "height": "8",
+    "pages": "110",
+    "author": "Arendt",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "a guilty"
+  },
+  {
+    "color": "Green 1",
+    "height": "9.25",
+    "pages": "586",
+    "author": "De Beauvoir ",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Blue 2",
+    "height": "7.25",
+    "pages": "162",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Red 2",
+    "height": "7.25",
+    "pages": "214",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Brown 2",
+    "height": "8",
+    "pages": "162",
+    "author": "De Beauvoir ",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "an introspective"
+  },
+  {
+    "color": "Red 3",
+    "height": "7.25",
+    "pages": "120",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Blue 3",
+    "height": "8.25",
+    "pages": "792",
+    "author": "De Beauvoir ",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "a nostalgic "
+  },
+  {
+    "color": "White",
+    "height": "8.25",
+    "pages": "400",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Blue 1",
+    "height": "11",
+    "pages": "184",
+    "author": "",
+    "genre": "art and design",
+    "subgenre": "art history",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Gray",
+    "height": "11",
+    "pages": "352",
+    "author": "",
+    "genre": "art and design",
+    "subgenre": "art history",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "White",
+    "height": "11.25",
+    "pages": "156",
+    "author": "",
+    "genre": "art and design",
+    "subgenre": "art history",
+    "feeling": "a cozy"
+  },
+  {
+    "color": "Black",
+    "height": "7",
+    "pages": "120",
+    "author": "",
+    "genre": "art and design",
+    "subgenre": "art history",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Green 3",
+    "height": "9.5",
+    "pages": "56",
+    "author": "",
+    "genre": "art and design",
+    "subgenre": "art history",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Black ",
+    "height": "9.25",
+    "pages": "98",
+    "author": "",
+    "genre": "art and design",
+    "subgenre": "art history",
+    "feeling": "an excited"
+  },
+  {
+    "color": "White",
+    "height": "11.75",
+    "pages": "320",
+    "author": "",
+    "genre": "art and design",
+    "subgenre": "art history",
+    "feeling": "a nostalgic"
+  },
+  {
+    "color": "Black",
+    "height": "7.25",
+    "pages": "160",
+    "author": "",
+    "genre": "art and design",
+    "subgenre": "biology",
+    "feeling": "an excited"
+  },
+  {
+    "color": "White",
+    "height": "12",
+    "pages": "312",
+    "author": "",
+    "genre": "art and design",
+    "subgenre": "biology",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Blue 2",
+    "height": "4",
+    "pages": "62",
+    "author": "",
+    "genre": "art and design",
+    "subgenre": "biology",
+    "feeling": "a wistful "
+  },
+  {
+    "color": "Green 2",
+    "height": "9.5",
+    "pages": "128",
+    "author": "",
+    "genre": "art and design",
+    "subgenre": "biology",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Multi",
+    "height": "7.25",
+    "pages": "144",
+    "author": "",
+    "genre": "art and design",
+    "subgenre": "biology",
+    "feeling": "a excitement"
+  },
+  {
+    "color": "Orange 3",
+    "height": "9.25",
+    "pages": "256",
+    "author": "",
+    "genre": "art and design",
+    "subgenre": "book about books",
+    "feeling": "an excited"
+  },
+  {
+    "color": " White",
+    "height": "11",
+    "pages": "256",
+    "author": "",
+    "genre": "art and design",
+    "subgenre": "fashion",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Blue 1",
+    "height": "9.75",
+    "pages": "208",
+    "author": "",
+    "genre": "art and design",
+    "subgenre": "illustration",
+    "feeling": "an excited"
+  },
+  {
+    "color": "White",
+    "height": "11.75",
+    "pages": "272",
+    "author": "",
+    "genre": "art and design",
+    "subgenre": "illustration",
+    "feeling": "a nostalgic"
+  },
+  {
+    "color": "Purple 2",
+    "height": "6.75",
+    "pages": "160",
+    "author": "",
+    "genre": "art and design",
+    "subgenre": "reference",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Blue 3",
+    "height": "5.75",
+    "pages": "176",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "outdoor",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Black",
+    "height": "8",
+    "pages": "416",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "a nostalgic"
+  },
+  {
+    "color": "White",
+    "height": "8",
+    "pages": "152",
+    "author": "Stevie Smith",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "White ",
+    "height": "8",
+    "pages": "164",
+    "author": "Millay",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "a cringe-stalgic"
+  },
+  {
+    "color": "Green 1",
+    "height": "7.75",
+    "pages": "176",
+    "author": "Millay",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Brown 1",
+    "height": "8.25",
+    "pages": "68",
+    "author": "Dover Thrift",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "White",
+    "height": "8.25",
+    "pages": "56",
+    "author": "Dover Thrift",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Blue 3",
+    "height": "8.25",
+    "pages": "230",
+    "author": "Dover Thrift",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "a nostalgic "
+  },
+  {
+    "color": "Black",
+    "height": "8",
+    "pages": "734",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Blue 1",
+    "height": "8.25",
+    "pages": "256",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Brown 1",
+    "height": "8.25",
+    "pages": "240",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "a nostalgic"
+  },
+  {
+    "color": "Multi",
+    "height": "9",
+    "pages": "236",
+    "author": "Maggie Dubris",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "a nostalgic"
+  },
+  {
+    "color": "Blue 3",
+    "height": "8",
+    "pages": "306",
+    "author": "NYRB",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Blue 2",
+    "height": "8",
+    "pages": "306",
+    "author": "Langston Hughes",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "an introspective"
+  },
+  {
+    "color": "White",
+    "height": "8.5",
+    "pages": "158",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "classic",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Black",
+    "height": "8.5",
+    "pages": "286",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Yellow 1",
+    "height": "8.25",
+    "pages": "352",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Multi",
+    "height": "7.5",
+    "pages": "288",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "a cringe-stalgic"
+  },
+  {
+    "color": "Black",
+    "height": "8.25",
+    "pages": "224",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Black",
+    "height": "9.5",
+    "pages": "228",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "",
+    "feeling": "a guilty"
+  },
+  {
+    "color": "White",
+    "height": "9",
+    "pages": "446",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "programming",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "White ",
+    "height": "9.25",
+    "pages": "358",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "programming ",
+    "feeling": "a excitement"
+  },
+  {
+    "color": "Blue 2",
+    "height": "8.25",
+    "pages": "368",
+    "author": "Best of Sports Writing series",
+    "genre": "sports",
+    "subgenre": "",
+    "feeling": "a introspection "
+  },
+  {
+    "color": "Black",
+    "height": "8.25",
+    "pages": "274",
+    "author": "",
+    "genre": "sports",
+    "subgenre": "baseball",
+    "feeling": "a affectionate "
+  },
+  {
+    "color": "Brown 2",
+    "height": "9.25",
+    "pages": "224",
+    "author": "Free Darko",
+    "genre": "sports",
+    "subgenre": "basketball",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Black",
+    "height": "9.25",
+    "pages": "224",
+    "author": "Free Darko",
+    "genre": "sports",
+    "subgenre": "basketball",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Orange 2",
+    "height": "9.5",
+    "pages": "360",
+    "author": "",
+    "genre": "sports",
+    "subgenre": "basketball",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Black",
+    "height": "9.25",
+    "pages": "402",
+    "author": "",
+    "genre": "sports",
+    "subgenre": "basketball",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "White",
+    "height": "8.5",
+    "pages": "154",
+    "author": "",
+    "genre": "sports",
+    "subgenre": "cycling",
+    "feeling": "an empowered"
+  },
+  {
+    "color": "Black",
+    "height": "8.25",
+    "pages": "344",
+    "author": "Michael Lewis",
+    "genre": "sports",
+    "subgenre": "football",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Gray",
+    "height": "8.75",
+    "pages": "560",
+    "author": "",
+    "genre": "sports",
+    "subgenre": "general",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Blue 3",
+    "height": "8.25",
+    "pages": "348",
+    "author": "",
+    "genre": "sports",
+    "subgenre": "general",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Red 3",
+    "height": "8.25",
+    "pages": "310",
+    "author": "",
+    "genre": "sports",
+    "subgenre": "general",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "White",
+    "height": "8.25",
+    "pages": "266",
+    "author": "",
+    "genre": "sports",
+    "subgenre": "general",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Multi",
+    "height": "8.25",
+    "pages": "374",
+    "author": "",
+    "genre": "sports",
+    "subgenre": "general",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Multi",
+    "height": "8.25",
+    "pages": "358",
+    "author": "",
+    "genre": "sports",
+    "subgenre": "general",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Orange 2",
+    "height": "8.25",
+    "pages": "250",
+    "author": "",
+    "genre": "sports",
+    "subgenre": "general",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Multi",
+    "height": "8.5",
+    "pages": "390",
+    "author": "",
+    "genre": "sports",
+    "subgenre": "general ",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Multi",
+    "height": "8.5",
+    "pages": "292",
+    "author": "",
+    "genre": "sports",
+    "subgenre": "gymnastics",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Multi",
+    "height": "7.75",
+    "pages": "240",
+    "author": "",
+    "genre": "sports",
+    "subgenre": "rowing",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Brown 1",
+    "height": "8.25",
+    "pages": "324",
+    "author": "",
+    "genre": "sports",
+    "subgenre": "running ",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Black",
+    "height": "8",
+    "pages": "264",
+    "author": "Simenon",
+    "genre": "sports",
+    "subgenre": "soccer",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Brown 2",
+    "height": "8",
+    "pages": "262",
+    "author": "",
+    "genre": "sports",
+    "subgenre": "soccer",
+    "feeling": "an ambivalent"
+  },
+  {
+    "color": "Yellow 2",
+    "height": "8.25",
+    "pages": "242",
+    "author": "",
+    "genre": "sports",
+    "subgenre": "surfing",
+    "feeling": "an excited"
+  },
+  {
+    "color": "White",
+    "height": "8",
+    "pages": "360",
+    "author": "Lynn Cox (see G)",
+    "genre": "sports",
+    "subgenre": "swimming",
+    "feeling": "an excited"
+  },
+  {
+    "color": "Yellow 2",
+    "height": "9.25",
+    "pages": "332",
+    "author": "",
+    "genre": "sports",
+    "subgenre": "swimming",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Blue 3",
+    "height": "9.25",
+    "pages": "285",
+    "author": "",
+    "genre": "sports",
+    "subgenre": "swimming",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Silver",
+    "height": "8",
+    "pages": "298",
+    "author": "",
+    "genre": "sports",
+    "subgenre": "tennis",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Green 1",
+    "height": "7.25",
+    "pages": "352",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "essay",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Blue 2",
+    "height": "8",
+    "pages": "338",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "essay",
+    "feeling": "an affectionate"
+  },
+  {
+    "color": "Green 2",
+    "height": "9.5",
+    "pages": "528",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "guide",
+    "feeling": "a wistful"
+  },
+  {
+    "color": "Red",
+    "height": "6.25",
+    "pages": "96",
+    "author": "",
+    "genre": "grab bag",
+    "subgenre": "guide",
+    "feeling": "a wistful "
+  }
+]

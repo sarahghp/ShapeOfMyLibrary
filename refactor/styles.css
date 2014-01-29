@@ -1,0 +1,278 @@
+body{
+    font-size: 16px;
+    font-family: Georgia, serif;
+    color: #666;
+    text-align:center;
+    padding:0;
+    margin:0;
+    width:100%;
+}
+
+a {
+    background: #ff0;
+    color: #222;
+    text-decoration:none;   
+}
+
+svg {
+    margin: 0 auto;
+    display: block;
+}
+  
+
+.title {
+    margin: 50px auto 0 auto;
+    display: block;
+}
+
+.text subtitle {
+    position: relative;
+    margin: 50px 0 0 0px;
+    text-align: left; 
+}
+
+.text{
+    text-align:left;
+    margin: 0 auto;
+    line-height: 1.4em;
+    
+}
+
+.text p{
+    width: 45%;
+    margin: 0 0 10px 100px;
+}
+
+.text hr{
+    width: 45%;
+    margin: 30px 0 50px 100px;
+}
+
+.graph {
+    position: absolute;
+    top: 550px; 
+    width: 100%;
+}
+
+
+.intro{
+    color: #11b4c3;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 18px;
+}
+
+.label{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 12px;
+    
+}
+
+#footer {
+    position: absolute;
+    top: 1050px;
+    width: 100%;
+    font-size: 12px;
+    font-weight: bold;
+    clear:both;
+}
+
+#footer .note {
+    font-weight: normal;
+    padding: 10px 0 0 0;
+}
+
+#footer a, #footer a:visited, #nav a, #nav a:visited  {
+    background: none;
+    color: #222;
+    text-decoration:none;       
+}
+
+#footer a:hover, #footer a:active, #nav a:hover, #nav a:active {
+    color: #222;
+    background: #ff0;
+    text-decoration:none;   
+}
+
+a.active {
+    color: #222;
+    background: #ff0;
+    text-decoration:none;      
+}
+
+#nav{
+    margin: 0px 0px -60px 0px;
+}
+
+#nav li {
+    display: inline;
+    margin: 0px 20px 0px 0;
+    font-size: 14px;
+}
+
+#nav li.active a {
+    color: #222;
+    background: #ff0;
+    text-decoration:none;  
+}
+
+.labelStyle {
+    stroke: black;
+    stroke-width: 1;
+    fill: #555;
+}
+
+
+.labelText {
+    fill: #fff;
+    font-family: Georgia, serif;
+    font-size: 14px;
+    
+}
+
+#instruction {
+    margin: 0 auto;
+}
+
+#instruction button {
+    background: #eee;
+    margin: 25px 0 0 0;
+    padding: 10px 10px 10px;
+    color: #444;
+    opacity: .75;
+    font-family: Georgia, serif;
+    font-size: 16px;
+    letter-spacing:.5px;
+    line-height: 1;
+    text-decoration: none;
+    -moz-box-shadow: 1px 1px 0 rgba(0, 0, 0, 0.25);
+    -webkit-box-shadow: 1px 1px 0 rgba(0, 0, 0, 0.25);
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    position: relative;
+    cursor: pointer; 
+}   
+
+#genres {
+    visibility: hidden;
+    position: absolute;
+    top: 650px;
+    width: 100%;
+}
+
+#sandwich {
+    width: 1280px;
+    margin: 0 auto;
+}
+
+#sandwich div {
+    position: relative;
+    float: left;
+}
+
+#genres a, #genres a:visited {
+    display: inline-block;
+    background: none;
+    border-top: 4px solid #fff;
+}
+
+#genres a:hover, #genres a:active {
+    border-top: 4px solid #ff0;
+    display: inline-block;
+}
+
+/* Front-page genre IDs */
+
+#comics {
+    
+}
+
+#artDesign {
+    margin-left: 30px;
+}
+
+#fiction {   
+    margin-left: 52px;
+}
+
+#mystery {
+    margin-left: 80px;
+}
+
+#nonfiction {
+    margin-left: 70px;
+}
+
+#literaryTheory {
+    margin-left: 50px;
+}
+
+#booksAboutBooks {
+    margin-left: 10px;
+}
+
+#sports {
+    margin-left: 7px;
+}
+
+#misc {
+    margin-left: 40px;
+}
+
+
+
+/* Color classes */
+
+.lightBlue {
+    color: #11b4c3;
+}
+
+.darkOrange {
+    color: #fa660f;
+}
+
+.darkGreen{
+    color: #0b7e2d;
+}
+
+.pink {
+    color: #f86984;
+}
+
+.lightGreen {
+    color: #1ee638;
+}
+
+.red {
+    color: #d00;
+}
+
+.purple {
+    color: #8c23d5;
+}
+
+.lavGray {
+    color: #7a7594;
+}
+
+.darkBlue {
+    color: #261bd8;
+}
+
+.lightOrange {
+    color: #fbac1c;
+}
+
+/* Column chart styling */
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: black;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    font-family: sans-serif;
+    font-size: 11px;
+}s

@@ -33,10 +33,10 @@ function IntroVis() {
 
 
         // this.logGenreCenters = function() {
-           // for each (genre in this.genreCenters){
-           //     console.log (genre);
-           // }
-        //}
+        //    for each (genre in this.genreCenters){
+        //        console.log (genre);
+        //    }
+        // }
 
 
 
@@ -48,7 +48,6 @@ function IntroVis() {
             layout = this.createLayout();
             svg = this.createSVG();
             layout.start();
-            console.log(JSON.stringify(dataset));
         };
 
     
@@ -203,7 +202,6 @@ function IntroVis() {
             }
             return madeBooks;
         };
-
 
     // Test this.makeBook()
         this.testBook = function(){
